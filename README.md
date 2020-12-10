@@ -1,5 +1,5 @@
 # Hey, I am Savio
-<samp>I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on [hashnode](https://savio.xyz/). 
+I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on <samp> [hashnode](https://savio.xyz/). <samp>
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Mobile App development
