@@ -50,4 +50,6 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 
 ## My Github Status 🦸
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+## My Github Activity
+<!--START_SECTION:activity-->
