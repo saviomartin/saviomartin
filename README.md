@@ -53,3 +53,9 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 
 ## My Github Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Anirudh-techie/hacksrm-source/pull/1) in [Anirudh-techie/hacksrm-source](https://github.com/Anirudh-techie/hacksrm-source)
+2. 🎉 Merged PR [#1](https://github.com/saviomartin/ai-voice-news-app/pull/1) in [saviomartin/ai-voice-news-app](https://github.com/saviomartin/ai-voice-news-app)
+3. 🎉 Merged PR [#1](https://github.com/saviomartin/discord-clone/pull/1) in [saviomartin/discord-clone](https://github.com/saviomartin/discord-clone)
+4. 🎉 Merged PR [#1](https://github.com/saviomartin/SnakeandLadders/pull/1) in [saviomartin/SnakeandLadders](https://github.com/saviomartin/SnakeandLadders)
+5. 🎉 Merged PR [#3](https://github.com/saviomartin/saviomartin/pull/3) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+<!--END_SECTION:activity-->
