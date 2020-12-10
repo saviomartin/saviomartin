@@ -40,7 +40,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
-## My recentBlog posts ✍️
+## My recent Blog posts ✍️
 <!-- BLOG-POST-LIST:START -->
 - [Let's build an emoji switcher like discord in just 5 minutes](https://savio.xyz/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes)
 - [Don't miss this chance to get free Developer Swags  🔥🎁](https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags)
@@ -48,3 +48,6 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 - [10 Projects that will make you paid or get you employed in 2020. ⚡🔥](https://savio.xyz/10-projects-that-make-you-employed-in-2020)
 <!-- BLOG-POST-LIST:END -->
 
+## My Github Status 🦸
+![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
