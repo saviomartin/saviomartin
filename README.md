@@ -17,6 +17,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 
 ## Find me around the web 🌍
 - <samp> [Instagram](https://www.instagram.com/teen_developer/)</samp>
+- <samp> [LinkedIn](linkedin.com/in/saviomartin)</samp>
 - <samp> [Twitter](https://twitter.com/saviomartin7)</samp>
 - <samp> [Codepen](https://codepen.io/saviomartin/)</samp>
 - <samp> [Figma](https://www.figma.com/@savio)</samp>
