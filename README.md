@@ -2,7 +2,7 @@
 I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on <samp> [hashnode](https://savio.xyz/). <samp>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<i>❝The original name of Windows was Interface Manager.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 - 🔭 I’m currently working on my portfolio
