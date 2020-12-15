@@ -1,5 +1,5 @@
 # Hey, I am Savio
-I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on <samp> [hashnode](https://savio.xyz/). <samp>
+I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on [hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
@@ -16,13 +16,13 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 </samp>
 
 ## Find me around the web 🌍
-- <samp> [Instagram](https://www.instagram.com/teen_developer/)</samp>
-- <samp> [LinkedIn](linkedin.com/in/saviomartin)</samp>
-- <samp> [Twitter](https://twitter.com/saviomartin7)</samp>
-- <samp> [Codepen](https://codepen.io/saviomartin/)</samp>
-- <samp> [Figma](https://www.figma.com/@savio)</samp>
-- <samp> [Hashnode](https://hashnode.com/@saviomartin)</samp>
-- <samp> [Medium](https://medium.com/@saviomartin)</samp>
+- [Instagram](https://www.instagram.com/teen_developer/)
+- [LinkedIn](linkedin.com/in/saviomartin)
+- [Twitter](https://twitter.com/saviomartin7)
+- [Codepen](https://codepen.io/saviomartin/)
+- [Figma](https://www.figma.com/@savio)
+- [Hashnode](https://hashnode.com/@saviomartin)
+- [Medium](https://medium.com/@saviomartin)
 
 ## My skills 🚀
 
