@@ -54,7 +54,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Status 🦸
-![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 ## My Github Activity ⚡
 <!--START_SECTION:activity-->
@@ -66,5 +66,5 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
-![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ai-news-app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ai-voice-news-app&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
