@@ -56,7 +56,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ## My Github Status 🦸
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-## My Github Activity
+## My Github Activity ⚡
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/Anirudh-techie/hacksrm-source/pull/1) in [Anirudh-techie/hacksrm-source](https://github.com/Anirudh-techie/hacksrm-source)
 2. 🎉 Merged PR [#1](https://github.com/saviomartin/ai-voice-news-app/pull/1) in [saviomartin/ai-voice-news-app](https://github.com/saviomartin/ai-voice-news-app)
@@ -64,3 +64,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 4. 🎉 Merged PR [#1](https://github.com/saviomartin/SnakeandLadders/pull/1) in [saviomartin/SnakeandLadders](https://github.com/saviomartin/SnakeandLadders)
 5. 🎉 Merged PR [#3](https://github.com/saviomartin/saviomartin/pull/3) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
 <!--END_SECTION:activity-->
+
+## My Trending Repos 💻
+![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ai-news-app&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
