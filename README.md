@@ -2,7 +2,7 @@
 I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on [hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
+<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 - 🔭 I’m currently working on my portfolio
