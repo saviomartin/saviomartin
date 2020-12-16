@@ -1,4 +1,4 @@
-# Hey, I am Savio
+# Hey, I am Savio 👋✌️
 I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on [hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
@@ -68,3 +68,5 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ## My Trending Repos 💻
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ai-voice-news-app&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
