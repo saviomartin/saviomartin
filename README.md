@@ -47,11 +47,28 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 
 ## My recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
-- [34 Must have Chrome Extensions for Web Developers and Designers](https://saviomartin.hashnode.dev/34-must-have-chrome-extensions-for-web-developers-and-designers-ckis8i7mg00xe33s11pmvg0bq)
-- [Let's build an emoji switcher like discord in just 5 minutes](https://saviomartin.hashnode.dev/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes-ckhxfzum90009ews1445p8wfn)
-- [Don't miss this chance to get free Developer Swags  🔥🎁](https://saviomartin.hashnode.dev/dont-miss-this-chance-to-get-free-developer-swags-ckhvfarvz03cxgms19zgl0oig)
-- [Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀](https://saviomartin.hashnode.dev/lets-build-live-markdown-editor-in-5-minutes-with-react-js-ckhtz78ry01mh3bs1154x3mz2)
-- [10 Projects that will make you paid or get you employed in 2020. ⚡🔥](https://saviomartin.hashnode.dev/10-projects-that-make-you-employed-in-2020-ckh68cp8z0bmd39s14um9amgj)
+<p align="left">
+<a href="https://saviomartin.hashnode.dev/34-must-have-chrome-extensions-for-web-developers-and-designers-ckis8i7mg00xe33s11pmvg0bq" title="34 Must have Chrome Extensions for Web Developers and Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607831823773/g1VDUMIs0.png" alt="34 Must have Chrome Extensions for Web Developers and Designers" width="250px" align="left" /></a>
+<a href="https://saviomartin.hashnode.dev/34-must-have-chrome-extensions-for-web-developers-and-designers-ckis8i7mg00xe33s11pmvg0bq" title="34 Must have Chrome Extensions for Web Developers and Designers"><strong>34 Must have Chrome Extensions for Web Developers and Designers</strong></a>
+<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
+<p align="left">
+<a href="https://saviomartin.hashnode.dev/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes-ckhxfzum90009ews1445p8wfn" title="Let's build an emoji switcher like discord in just 5 minutes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606306448249/ElsqC30nK.gif" alt="Let's build an emoji switcher like discord in just 5 minutes" width="250px" align="right" /></a>
+<a href="https://saviomartin.hashnode.dev/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes-ckhxfzum90009ews1445p8wfn" title="Let's build an emoji switcher like discord in just 5 minutes"><strong>Let's build an emoji switcher like discord in just 5 minutes</strong></a>
+<br/> Hello there, I am Savio Martin, A 13-year-old passionate Full Stack Web Developer from India. Today, I'm gonna make something super awesome and in-demand project In Just 5 Minutes.
+You all may have noticed the emoji switcher effect on Discord. It is ... </p> <br/> <br/>
+<p align="left">
+<a href="https://saviomartin.hashnode.dev/dont-miss-this-chance-to-get-free-developer-swags-ckhvfarvz03cxgms19zgl0oig" title="Don't miss this chance to get free Developer Swags  🔥🎁"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606188703215/ZLGPQe5fU.png" alt="Don't miss this chance to get free Developer Swags  🔥🎁" width="250px" align="left" /></a>
+<a href="https://saviomartin.hashnode.dev/dont-miss-this-chance-to-get-free-developer-swags-ckhvfarvz03cxgms19zgl0oig" title="Don't miss this chance to get free Developer Swags  🔥🎁"><strong>Don't miss this chance to get free Developer Swags  🔥🎁</strong></a>
+<br/> Hello there, Today as a developer we have so many chances to get awesome developer swags just for free. So, This ones will really help you. These are tested by the community and if fully verified. The time goes on and some may have extinguished. Yet,... </p> <br/> <br/>
+<p align="left">
+<a href="https://saviomartin.hashnode.dev/lets-build-live-markdown-editor-in-5-minutes-with-react-js-ckhtz78ry01mh3bs1154x3mz2" title="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604912396178/ZkHDBHoHt.png" alt="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀" width="250px" align="right" /></a>
+<a href="https://saviomartin.hashnode.dev/lets-build-live-markdown-editor-in-5-minutes-with-react-js-ckhtz78ry01mh3bs1154x3mz2" title="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀"><strong>Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀</strong></a>
+<br/> I am Savio Martin,  A 13-year-old passionate Full Stack Web Developer from India. This is my second post on the Hash node. Today, I'm gonna make something super awesome and in-demand project In Just 5 Minutes.
+Let's Build The Live Markdown Editor wit... </p> <br/> <br/>
+<p align="left">
+<a href="https://saviomartin.hashnode.dev/10-projects-that-make-you-employed-in-2020-ckh68cp8z0bmd39s14um9amgj" title="10 Projects that will make you paid or get you employed in 2020. ⚡🔥"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604665380642/C9OioaTvX.png" alt="10 Projects that will make you paid or get you employed in 2020. ⚡🔥" width="250px" align="left" /></a>
+<a href="https://saviomartin.hashnode.dev/10-projects-that-make-you-employed-in-2020-ckh68cp8z0bmd39s14um9amgj" title="10 Projects that will make you paid or get you employed in 2020. ⚡🔥"><strong>10 Projects that will make you paid or get you employed in 2020. ⚡🔥</strong></a>
+<br/> I am Savio Martin, I’m a 13-year-old boy from India working as a freelancer. Today, I am gonna share 10 projects that gives you a good experience as well as getting you paid. Making these projects not only give you good experience but also boost up y... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
