@@ -18,6 +18,6 @@ jobs:
         with:
           USERNAME: 'saviomartin'
           COUNT: 10
-          STYLE: "blog-alternate"
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
