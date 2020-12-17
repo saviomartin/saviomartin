@@ -46,13 +46,8 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My recent Blog posts ✍️
-<!-- BLOG-POST-LIST:START -->
-- [34 Must have Chrome Extensions for Web Developers and Designers](https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers)
-- [Let's build an emoji switcher like discord in just 5 minutes](https://savio.xyz/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes)
-- [Don't miss this chance to get free Developer Swags  🔥🎁](https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags)
-- [Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀](https://savio.xyz/lets-build-live-markdown-editor-in-5-minutes-with-react-js)
-- [10 Projects that will make you paid or get you employed in 2020. ⚡🔥](https://savio.xyz/10-projects-that-make-you-employed-in-2020)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
