@@ -19,5 +19,6 @@ jobs:
           USERNAME: 'saviomartin'
           COUNT: 5
           STYLE: "blog-left"
+          BLOG_URL: 'https://savio.xyz/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
