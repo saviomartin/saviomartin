@@ -47,6 +47,11 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 
 ## My recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
+- [34 Must have Chrome Extensions for Web Developers and Designers](https://saviomartin.hashnode.dev/34-must-have-chrome-extensions-for-web-developers-and-designers-ckis8i7mg00xe33s11pmvg0bq)
+- [Let's build an emoji switcher like discord in just 5 minutes](https://saviomartin.hashnode.dev/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes-ckhxfzum90009ews1445p8wfn)
+- [Don't miss this chance to get free Developer Swags  🔥🎁](https://saviomartin.hashnode.dev/dont-miss-this-chance-to-get-free-developer-swags-ckhvfarvz03cxgms19zgl0oig)
+- [Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀](https://saviomartin.hashnode.dev/lets-build-live-markdown-editor-in-5-minutes-with-react-js-ckhtz78ry01mh3bs1154x3mz2)
+- [10 Projects that will make you paid or get you employed in 2020. ⚡🔥](https://saviomartin.hashnode.dev/10-projects-that-make-you-employed-in-2020-ckh68cp8z0bmd39s14um9amgj)
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
