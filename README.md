@@ -47,6 +47,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 
 ## My recent Blog posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [34 Must have Chrome Extensions for Web Developers and Designers](https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers)
 - [Let's build an emoji switcher like discord in just 5 minutes](https://savio.xyz/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes)
 - [Don't miss this chance to get free Developer Swags  🔥🎁](https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags)
 - [Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀](https://savio.xyz/lets-build-live-markdown-editor-in-5-minutes-with-react-js)
