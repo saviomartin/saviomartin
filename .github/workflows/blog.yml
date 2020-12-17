@@ -16,7 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'saviomartin' # Hashnode Username
-          COUNT: 5 # MAX Visisble
+          USERNAME: 'saviomartin'
+          COUNT: 10
+          STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
