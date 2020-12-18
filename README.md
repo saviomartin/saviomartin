@@ -45,7 +45,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
-## My recent Blog posts ✍️
+## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers" title="34 Must have Chrome Extensions for Web Developers and Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607831823773/g1VDUMIs0.png" alt="34 Must have Chrome Extensions for Web Developers and Designers" width="250px" align="left" /></a>
