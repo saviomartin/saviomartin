@@ -48,6 +48,10 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608259859109/UnJW6Y0mK.png" alt="16 must-have Figma Plugins for UI/UX Designers" width="250px" align="left" /></a>
+<a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><strong>16 must-have Figma Plugins for UI/UX Designers</strong></a>
+<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers" title="34 Must have Chrome Extensions for Web Developers and Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607831823773/g1VDUMIs0.png" alt="34 Must have Chrome Extensions for Web Developers and Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers" title="34 Must have Chrome Extensions for Web Developers and Designers"><strong>34 Must have Chrome Extensions for Web Developers and Designers</strong></a>
 <br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
@@ -65,10 +69,6 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <a href="https://savio.xyz/lets-build-live-markdown-editor-in-5-minutes-with-react-js" title="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀"><strong>Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀</strong></a>
 <br/> I am Savio Martin,  A 13-year-old passionate Full Stack Web Developer from India. This is my second post on the Hash node. Today, I'm gonna make something super awesome and in-demand project In Just 5 Minutes.
 Let's Build The Live Markdown Editor wit... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/10-projects-that-make-you-employed-in-2020" title="10 Projects that will make you paid or get you employed in 2020. ⚡🔥"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604665380642/C9OioaTvX.png" alt="10 Projects that will make you paid or get you employed in 2020. ⚡🔥" width="250px" align="left" /></a>
-<a href="https://savio.xyz/10-projects-that-make-you-employed-in-2020" title="10 Projects that will make you paid or get you employed in 2020. ⚡🔥"><strong>10 Projects that will make you paid or get you employed in 2020. ⚡🔥</strong></a>
-<br/> I am Savio Martin, I’m a 13-year-old boy from India working as a freelancer. Today, I am gonna share 10 projects that gives you a good experience as well as getting you paid. Making these projects not only give you good experience but also boost up y... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
