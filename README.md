@@ -50,7 +50,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 <p align="left">
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608395362458/28jPjZVzk.jpeg" alt="Must-read Books for Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
-<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
+<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resource</p> <br/> <br/>
 <p align="left">
 <a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608259859109/UnJW6Y0mK.png" alt="16 must-have Figma Plugins for UI/UX Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><strong>16 must-have Figma Plugins for UI/UX Designers</strong></a>
