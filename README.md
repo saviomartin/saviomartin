@@ -48,6 +48,10 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608395362458/28jPjZVzk.jpeg" alt="Must-read Books for Designers" width="250px" align="left" /></a>
+<a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
+<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608259859109/UnJW6Y0mK.png" alt="16 must-have Figma Plugins for UI/UX Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><strong>16 must-have Figma Plugins for UI/UX Designers</strong></a>
 <br/> Hey there, I'm Savio Martin, A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my... </p> <br/> <br/>
@@ -64,11 +68,6 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <a href="https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags" title="Don't miss this chance to get free Developer Swags  🔥🎁"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606188703215/ZLGPQe5fU.png" alt="Don't miss this chance to get free Developer Swags  🔥🎁" width="250px" align="left" /></a>
 <a href="https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags" title="Don't miss this chance to get free Developer Swags  🔥🎁"><strong>Don't miss this chance to get free Developer Swags  🔥🎁</strong></a>
 <br/> Hello there, Today as a developer we have so many chances to get awesome developer swags just for free. So, This ones will really help you. These are tested by the community and if fully verified. The time goes on and some may have extinguished. Yet,... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/lets-build-live-markdown-editor-in-5-minutes-with-react-js" title="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604912396178/ZkHDBHoHt.png" alt="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀" width="250px" align="left" /></a>
-<a href="https://savio.xyz/lets-build-live-markdown-editor-in-5-minutes-with-react-js" title="Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀"><strong>Lets Build Live Markdown Editor in 5 minutes with React JS. ⚡🚀</strong></a>
-<br/> I am Savio Martin,  A 13-year-old passionate Full Stack Web Developer from India. This is my second post on the Hash node. Today, I'm gonna make something super awesome and in-demand project In Just 5 Minutes.
-Let's Build The Live Markdown Editor wit... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
