@@ -48,7 +48,7 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608395362458/28jPjZVzk.jpeg" alt="Must-read Books for Designers" width="250px" align="left" /></a>
+<a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608521423976/_AE4go21-.png" alt="Must-read Books for Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
 <br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
 <p align="left">
