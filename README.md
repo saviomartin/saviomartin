@@ -2,7 +2,7 @@
 I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on [hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
+<i>❝In 1960, the computer at NORAD warned with 99.9% certainty that the Soviets had just launched a full-scale missile attack against North America. NORAD later discovered that the Early Warning System in Greenland had interpreted the moon rising over Norway as a missile attack from Siberia.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 - 🔭 I’m currently working on my portfolio
