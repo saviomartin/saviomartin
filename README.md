@@ -2,7 +2,7 @@
 I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I love creating full stack web applications and mobile apps. I have prooved my execellence in frontend techonologies. I'm currently learning Mobile app development. I love to share my resources and expertise with dev community. I regularly write articles on [hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 - 🔭 I’m currently working on my portfolio
