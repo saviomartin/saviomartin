@@ -48,6 +48,10 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup" title="Code a hackathon winning AI Voice Recognition app - Complete Setup 🗣️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608967101252/4D-mvK3e5.png" alt="Code a hackathon winning AI Voice Recognition app - Complete Setup 🗣️" width="250px" align="left" /></a>
+<a href="https://savio.xyz/code-a-hackathon-winning-ai-voice-recognition-app-complete-setup" title="Code a hackathon winning AI Voice Recognition app - Complete Setup 🗣️"><strong>Code a hackathon winning AI Voice Recognition app - Complete Setup 🗣️</strong></a>
+<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608521423976/_AE4go21-.png" alt="Must-read Books for Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
 <br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
@@ -64,10 +68,6 @@ I'm 13 year old boy on an aim to become a sucessful full stack web devloper. I l
 <a href="https://savio.xyz/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes" title="Let's build an emoji switcher like discord in just 5 minutes"><strong>Let's build an emoji switcher like discord in just 5 minutes</strong></a>
 <br/> Hello there, I am Savio Martin, A 13-year-old passionate Full Stack Web Developer from India. Today, I'm gonna make something super awesome and in-demand project In Just 5 Minutes.
 You all may have noticed the emoji switcher effect on Discord. It is ... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags" title="Don't miss this chance to get free Developer Swags  🔥🎁"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606188703215/ZLGPQe5fU.png" alt="Don't miss this chance to get free Developer Swags  🔥🎁" width="250px" align="left" /></a>
-<a href="https://savio.xyz/dont-miss-this-chance-to-get-free-developer-swags" title="Don't miss this chance to get free Developer Swags  🔥🎁"><strong>Don't miss this chance to get free Developer Swags  🔥🎁</strong></a>
-<br/> Hello there, Today as a developer we have so many chances to get awesome developer swags just for free. So, This ones will really help you. These are tested by the community and if fully verified. The time goes on and some may have extinguished. Yet,... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
