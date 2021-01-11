@@ -71,6 +71,8 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 ## My Github Activity ⚡
