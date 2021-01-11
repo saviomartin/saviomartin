@@ -24,8 +24,6 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 - [Hashnode](https://hashnode.com/@saviomartin)
 - [Medium](https://medium.com/@saviomartin)
 
-![](https://metrics.lecoq.io/saviomartin?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
-
 ## My skills 🚀
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,11 +71,9 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <!-- HASHNODE_BLOG:END -->
 
 ## My Github Status 🦸
-![](https://metrics.lecoq.io/saviomartin?template=classic&config.timezone=Asia%2FCalcutta)
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 ## My Github Activity ⚡
-![](https://metrics.lecoq.io/saviomartin?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/MarkoDenic/awesome-tech-blogs/pull/3) in [MarkoDenic/awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs)
