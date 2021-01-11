@@ -84,6 +84,8 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Savio Martin for Expo-cli installed but when running any expo command I get "zsh: command not found: expo"](https://stackoverflow.com/questions/62971258/expo-cli-installed-but-when-running-any-expo-command-i-get-zsh-command-not-fou/65660797#65660797)
+- [Answer by Savio Martin for Expo-cli is installed but "-bash: expo: command not found"](https://stackoverflow.com/questions/54248522/expo-cli-is-installed-but-bash-expo-command-not-found/65660775#65660775)
 <!-- STACKOVERFLOW:END -->
 
 ## My Trending Repos 💻
