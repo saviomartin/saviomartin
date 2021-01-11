@@ -72,8 +72,7 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 
 ## My Github Status 🦸
 
-![Metrics](https://metrics.lecoq.io/saviomartin?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) <br>
-![](https://github-readme-stats.vercel.app/api?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![Metrics](https://metrics.lecoq.io/saviomartin?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 ## My Github Activity ⚡
 
