@@ -82,6 +82,10 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 5. 🎉 Merged PR [#3](https://github.com/saviomartin/saviomartin/pull/3) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
 <!--END_SECTION:activity-->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ## My Trending Repos 💻
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ai-voice-news-app&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
