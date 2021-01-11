@@ -2,7 +2,7 @@
 I'm 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I'm currently learning Mobile app development. I love to share my resources and expertise with the dev community. I regularly write articles on [@hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
+<i>❝If there was a computer as powerful as the human brain, it would be able to do 38 thousand trillion operations per second and hold more than 3580 terabytes of memory.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 - 🔭 I’m currently working on my portfolio
