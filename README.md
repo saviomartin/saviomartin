@@ -70,6 +70,10 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 You all may have noticed the emoji switcher effect on Discord. It is ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+## Weekly Development Breakdown 📊
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## My Github Status 🦸
 
 ![Metrics](https://metrics.lecoq.io/saviomartin?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
