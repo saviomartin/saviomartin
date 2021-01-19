@@ -77,9 +77,9 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/MarkoDenic/awesome-tech-blogs/pull/3) in [MarkoDenic/awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs)
-2. 🎉 Merged PR [#1](https://github.com/saviomartin/christmas-gift/pull/1) in [saviomartin/christmas-gift](https://github.com/saviomartin/christmas-gift)
-3. 💪 Opened PR [#1](https://github.com/Anirudh-techie/hacksrm-source/pull/1) in [Anirudh-techie/hacksrm-source](https://github.com/Anirudh-techie/hacksrm-source)
+1. 🗣 Commented on [#98](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/98) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 💪 Opened PR [#3](https://github.com/MarkoDenic/awesome-tech-blogs/pull/3) in [MarkoDenic/awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs)
+3. 🎉 Merged PR [#1](https://github.com/saviomartin/christmas-gift/pull/1) in [saviomartin/christmas-gift](https://github.com/saviomartin/christmas-gift)
 4. 🎉 Merged PR [#1](https://github.com/saviomartin/ai-voice-news-app/pull/1) in [saviomartin/ai-voice-news-app](https://github.com/saviomartin/ai-voice-news-app)
 5. 🎉 Merged PR [#3](https://github.com/saviomartin/saviomartin/pull/3) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
 <!--END_SECTION:activity-->
