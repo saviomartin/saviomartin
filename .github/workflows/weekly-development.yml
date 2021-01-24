@@ -1,10 +1,17 @@
+# This is a basic workflow to help you get started with Actions
+
 name: Waka Readme
 
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
@@ -13,4 +20,5 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.ae011867-350f-4fb8-8b82-737000c9e48c }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    
