@@ -71,7 +71,10 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <!-- HASHNODE_BLOG:END -->
 
 ## Weekly Development Breakdown 📊
-![](https://github-readme-stats.vercel.app/api/wakatime?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## My Github Status 🦸
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
