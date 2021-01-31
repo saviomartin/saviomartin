@@ -89,11 +89,11 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-2. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-3. 💪 Opened PR [#37](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/37) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-4. 🗣 Commented on [#98](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/98) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 💪 Opened PR [#3](https://github.com/MarkoDenic/awesome-tech-blogs/pull/3) in [MarkoDenic/awesome-tech-blogs](https://github.com/MarkoDenic/awesome-tech-blogs)
+1. 💪 Opened PR [#64](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/64) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+2. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+3. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+4. 💪 Opened PR [#37](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/37) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+5. 🗣 Commented on [#98](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/98) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 ## StackOverflow Activity
