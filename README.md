@@ -89,11 +89,11 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/64) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-2. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-3. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-4. 💪 Opened PR [#37](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/37) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-5. 🗣 Commented on [#98](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/98) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#1](https://github.com/saviomartin/coffecoder/pull/1) in [saviomartin/coffecoder](https://github.com/saviomartin/coffecoder)
+2. 💪 Opened PR [#64](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/64) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+3. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+4. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+5. 💪 Opened PR [#37](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/37) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
 <!--END_SECTION:activity-->
 
 ## StackOverflow Activity
