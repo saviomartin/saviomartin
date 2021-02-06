@@ -2,7 +2,7 @@
 I'm 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I'm currently learning Mobile app development. I love to share my resources and expertise with the dev community. I regularly write articles on [@hashnode](https://savio.xyz/).
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.❞</i>
+<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 - 🔭 I’m currently working on my portfolio
