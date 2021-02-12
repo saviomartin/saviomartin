@@ -87,11 +87,11 @@ TypeScript   2 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/saviomartin/coffecoder/pull/1) in [saviomartin/coffecoder](https://github.com/saviomartin/coffecoder)
-2. 💪 Opened PR [#64](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/64) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-3. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-4. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-5. 💪 Opened PR [#37](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/37) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+1. ❗️ Opened issue [#1](https://github.com/siddharth2016/quote-readme/issues/1) in [siddharth2016/quote-readme](https://github.com/siddharth2016/quote-readme)
+2. 🎉 Merged PR [#1](https://github.com/saviomartin/coffecoder/pull/1) in [saviomartin/coffecoder](https://github.com/saviomartin/coffecoder)
+3. 💪 Opened PR [#64](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/64) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+4. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+5. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
 <!--END_SECTION:activity-->
 
 ## StackOverflow Activity
