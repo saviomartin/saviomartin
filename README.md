@@ -72,11 +72,11 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <!--![](https://github-readme-stats.vercel.app/api/wakatime?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)-->
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 34 mins   █████████████████▒░░░░░░░   68.69 % 
-HTML         1 hr 55 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-CSS          1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JavaScript   11 hrs 8 mins   █████████████████▓░░░░░░░   70.62 % 
+CSS          2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+HTML         2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
