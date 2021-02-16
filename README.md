@@ -68,21 +68,11 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 You all may have noticed the emoji switcher effect on Discord. It is ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-## Weekly Development Breakdown 📊
-<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=saviomartin&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)-->
-<!--START_SECTION:waka-->
-```text
-JavaScript   13 hrs 59 mins  ██████████████████▒░░░░░░   73.97 % 
-HTML         2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-CSS          2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-```
-<!--END_SECTION:waka-->
-
 
 ## My Github Status 🦸
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+
+![](https://activity-graph.herokuapp.com/graph?username=saviomartin&theme=github)
 
 ## My Github Activity ⚡
 
