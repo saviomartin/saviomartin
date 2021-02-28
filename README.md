@@ -78,11 +78,11 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/siddharth2016/quote-readme/issues/1) in [siddharth2016/quote-readme](https://github.com/siddharth2016/quote-readme)
-2. 🎉 Merged PR [#1](https://github.com/saviomartin/coffecoder/pull/1) in [saviomartin/coffecoder](https://github.com/saviomartin/coffecoder)
-3. 💪 Opened PR [#64](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/64) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-4. ❌ Closed PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
-5. 💪 Opened PR [#50](https://github.com/Kites-Foundation/hello-munnar-frontend/pull/50) in [Kites-Foundation/hello-munnar-frontend](https://github.com/Kites-Foundation/hello-munnar-frontend)
+1. 🗣 Commented on [#4](https://github.com/saviomartin/gradientking/issues/4) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+2. 🎉 Merged PR [#3](https://github.com/saviomartin/gradientking/pull/3) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+3. 🗣 Commented on [#3](https://github.com/saviomartin/gradientking/issues/3) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. 🎉 Merged PR [#5](https://github.com/saviomartin/gradientking/pull/5) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+5. 🗣 Commented on [#5](https://github.com/saviomartin/gradientking/issues/5) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
 <!--END_SECTION:activity-->
 
 ## StackOverflow Activity
