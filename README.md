@@ -46,9 +46,10 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://savio.xyz/code-an-ai-voice-recognition-app-with-alan-ai-complete-setup" title="Code an AI Voice Recognition app with ALAN AI- Complete Setup 🗣️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1613481579355/KJOwqo1vg.png" alt="Code an AI Voice Recognition app with ALAN AI- Complete Setup 🗣️" width="250px" align="left" /></a>
-<a href="https://savio.xyz/code-an-ai-voice-recognition-app-with-alan-ai-complete-setup" title="Code an AI Voice Recognition app with ALAN AI- Complete Setup 🗣️"><strong>Code an AI Voice Recognition app with ALAN AI- Complete Setup 🗣️</strong></a>
-<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my... </p> <br/> <br/>
+<a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614395873291/CmG_gnQr_.png" alt="Introducing Gradient King - Never again run out of gradients! 🌈" width="250px" align="left" /></a>
+<a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><strong>Introducing Gradient King - Never again run out of gradients! 🌈</strong></a>
+<br/> Hello Geeks 👋
+This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies. Due to exams, I wasn't able to attend the last ha... </p> <br/> <br/>
 <p align="left">
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608521423976/_AE4go21-.png" alt="Must-read Books for Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
