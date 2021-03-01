@@ -92,7 +92,7 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 <!-- STACKOVERFLOW:END -->
 
 ## My Trending Repos 💻
-![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ai-voice-news-app&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
