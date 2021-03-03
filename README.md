@@ -78,11 +78,11 @@ You all may have noticed the emoji switcher effect on Discord. It is ... </p> <b
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/saviomartin/gradientking/pull/12) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-2. 🎉 Merged PR [#10](https://github.com/saviomartin/gradientking/pull/10) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-3. 🗣 Commented on [#10](https://github.com/saviomartin/gradientking/issues/10) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-4. 🗣 Commented on [#8](https://github.com/saviomartin/gradientking/issues/8) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-5. 🎉 Merged PR [#6](https://github.com/saviomartin/gradientking/pull/6) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+1. 🗣 Commented on [#8](https://github.com/saviomartin/gradientking/issues/8) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+2. 🎉 Merged PR [#12](https://github.com/saviomartin/gradientking/pull/12) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+3. 🎉 Merged PR [#10](https://github.com/saviomartin/gradientking/pull/10) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. 🗣 Commented on [#10](https://github.com/saviomartin/gradientking/issues/10) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+5. 🗣 Commented on [#8](https://github.com/saviomartin/gradientking/issues/8) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
 <!--END_SECTION:activity-->
 
 ## StackOverflow Activity
