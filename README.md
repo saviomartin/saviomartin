@@ -46,6 +46,12 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/15-amazing-websites-for-ui-inspirations" title="15 amazing websites for UI inspirations 💖"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614920514382/VhMmoa5ct.png" alt="15 amazing websites for UI inspirations 💖" width="250px" align="left" /></a>
+<a href="https://savio.xyz/15-amazing-websites-for-ui-inspirations" title="15 amazing websites for UI inspirations 💖"><strong>15 amazing websites for UI inspirations 💖</strong></a>
+<br/> Hello Geeks 👋
+This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
+Today, I'll share the top 15 sites which I use to... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614395873291/CmG_gnQr_.png" alt="Introducing Gradient King - Never again run out of gradients! 🌈" width="250px" align="left" /></a>
 <a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><strong>Introducing Gradient King - Never again run out of gradients! 🌈</strong></a>
 <br/> Hello Geeks 👋
@@ -62,11 +68,6 @@ This is Savio here. I'm young dev with an intention to enhance as a successful w
 <a href="https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers" title="34 Must have Chrome Extensions for Web Developers and Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607831823773/g1VDUMIs0.png" alt="34 Must have Chrome Extensions for Web Developers and Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/34-must-have-chrome-extensions-for-web-developers-and-designers" title="34 Must have Chrome Extensions for Web Developers and Designers"><strong>34 Must have Chrome Extensions for Web Developers and Designers</strong></a>
 <br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes" title="Let's build an emoji switcher like discord in just 5 minutes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606306448249/ElsqC30nK.gif" alt="Let's build an emoji switcher like discord in just 5 minutes" width="250px" align="left" /></a>
-<a href="https://savio.xyz/lets-build-an-emoji-switcher-like-discord-in-just-5-minutes" title="Let's build an emoji switcher like discord in just 5 minutes"><strong>Let's build an emoji switcher like discord in just 5 minutes</strong></a>
-<br/> Hello there, I am Savio Martin, A 13-year-old passionate Full Stack Web Developer from India. Today, I'm gonna make something super awesome and in-demand project In Just 5 Minutes.
-You all may have noticed the emoji switcher effect on Discord. It is ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
