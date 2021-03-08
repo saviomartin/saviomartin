@@ -10,7 +10,7 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 - 💬 Ask me about Frontend Technologies
 - 📫 How to reach me: saviomartin2007@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't stop procastination
+- ⚡ Fun fact: I can't stop procrastination
 </samp>
 
 ## Find me around the web 🌍
