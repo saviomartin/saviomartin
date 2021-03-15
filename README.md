@@ -79,11 +79,11 @@ This is Savio here. I'm young dev with an intention to enhance as a successful w
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/saviomartin/gradientking/pull/17) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-2. ❗️ Closed issue [#16](https://github.com/saviomartin/gradientking/issues/16) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-3. 🗣 Commented on [#16](https://github.com/saviomartin/gradientking/issues/16) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-4. 🎉 Merged PR [#4](https://github.com/saviomartin/saviomartin/pull/4) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
-5. ❗️ Closed issue [#3](https://github.com/saviomartin/saviomartin/issues/3) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+1. 🎉 Merged PR [#18](https://github.com/saviomartin/gradientking/pull/18) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+2. 🗣 Commented on [#18](https://github.com/saviomartin/gradientking/issues/18) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+3. 🎉 Merged PR [#17](https://github.com/saviomartin/gradientking/pull/17) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. ❗️ Closed issue [#16](https://github.com/saviomartin/gradientking/issues/16) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+5. 🗣 Commented on [#16](https://github.com/saviomartin/gradientking/issues/16) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
 <!--END_SECTION:activity-->
 
 ## StackOverflow Activity
