@@ -46,6 +46,12 @@ I'm 13-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/25-marvelous-resources-to-satisfy-your-image-needs" title="25 Marvelous Resources to satisfy your image needs 🙌"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616477264134/VMwnyptV0.png" alt="25 Marvelous Resources to satisfy your image needs 🙌" width="250px" align="left" /></a>
+<a href="https://savio.xyz/25-marvelous-resources-to-satisfy-your-image-needs" title="25 Marvelous Resources to satisfy your image needs 🙌"><strong>25 Marvelous Resources to satisfy your image needs 🙌</strong></a>
+<br/> Hello Devs 👋
+This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
+Today, I'm gonna share 25 Marvelous Resources to s... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/111-amazing-resources-youre-gonna-love" title="111 amazing resources you're gonna love 💖"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616068062442/ZL-3pdvY3.jpeg" alt="111 amazing resources you're gonna love 💖" width="250px" align="left" /></a>
 <a href="https://savio.xyz/111-amazing-resources-youre-gonna-love" title="111 amazing resources you're gonna love 💖"><strong>111 amazing resources you're gonna love 💖</strong></a>
 <br/> Hello Devs 👋
@@ -66,10 +72,6 @@ This is Savio here. I'm young dev with an intention to enhance as a successful w
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608521423976/_AE4go21-.png" alt="Must-read Books for Designers" width="250px" align="left" /></a>
 <a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
 <br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608259859109/UnJW6Y0mK.png" alt="16 must-have Figma Plugins for UI/UX Designers" width="250px" align="left" /></a>
-<a href="https://savio.xyz/16-must-have-figma-plugins-for-uiux-designers" title="16 must-have Figma Plugins for UI/UX Designers"><strong>16 must-have Figma Plugins for UI/UX Designers</strong></a>
-<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
