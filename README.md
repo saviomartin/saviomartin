@@ -46,6 +46,12 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/use-local-storage-in-react-the-fastest-way" title="Use Local Storage in React - The fastest way! 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616735807235/dwlSzyIg2.png" alt="Use Local Storage in React - The fastest way! 🚀" width="250px" align="left" /></a>
+<a href="https://savio.xyz/use-local-storage-in-react-the-fastest-way" title="Use Local Storage in React - The fastest way! 🚀"><strong>Use Local Storage in React - The fastest way! 🚀</strong></a>
+<br/> Hello Devs 👋
+This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
+Today, I'm gonna share how you can use local stora... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/25-marvelous-resources-to-satisfy-your-image-needs" title="25 Marvelous Resources to satisfy your image needs 🙌"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616477264134/VMwnyptV0.png" alt="25 Marvelous Resources to satisfy your image needs 🙌" width="250px" align="left" /></a>
 <a href="https://savio.xyz/25-marvelous-resources-to-satisfy-your-image-needs" title="25 Marvelous Resources to satisfy your image needs 🙌"><strong>25 Marvelous Resources to satisfy your image needs 🙌</strong></a>
 <br/> Hello Devs 👋
@@ -68,10 +74,6 @@ Today, I'll share the top 15 sites which I use to... </p> <br/> <br/>
 <a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><strong>Introducing Gradient King - Never again run out of gradients! 🌈</strong></a>
 <br/> Hello Geeks 👋
 This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies. Due to exams, I wasn't able to attend the last ha... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608521423976/_AE4go21-.png" alt="Must-read Books for Designers" width="250px" align="left" /></a>
-<a href="https://savio.xyz/must-read-books-for-designers" title="Must-read Books for Designers"><strong>Must-read Books for Designers</strong></a>
-<br/> Hey there, I'm Savio Martin, A 13-year-old boy on an aim to become a successful full-stack web developer. I love creating full-stack web applications and mobile apps. I have prooved my excellence in frontend technologies. I love to share my resources... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
