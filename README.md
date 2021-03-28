@@ -46,6 +46,13 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users" title="Introducing Hashtree - Link tree for all hashnode users ✌"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616835612451/d7DiMhtk-.png" alt="Introducing Hashtree - Link tree for all hashnode users ✌" width="250px" align="left" /></a>
+<a href="https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users" title="Introducing Hashtree - Link tree for all hashnode users ✌"><strong>Introducing Hashtree - Link tree for all hashnode users ✌</strong></a>
+<br/> Hello Devs 👋
+This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
+Little flashback
+I was introduced to hashnode API ... </p> <br/> <br/>
+<p align="left">
 <a href="https://savio.xyz/use-local-storage-in-react-the-fastest-way" title="Use Local Storage in React - The fastest way! 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616735807235/dwlSzyIg2.png" alt="Use Local Storage in React - The fastest way! 🚀" width="250px" align="left" /></a>
 <a href="https://savio.xyz/use-local-storage-in-react-the-fastest-way" title="Use Local Storage in React - The fastest way! 🚀"><strong>Use Local Storage in React - The fastest way! 🚀</strong></a>
 <br/> Hello Devs 👋
@@ -69,11 +76,6 @@ Today, I'm gonna share 100+ super amazing resource... </p> <br/> <br/>
 <br/> Hello Geeks 👋
 This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
 Today, I'll share the top 15 sites which I use to... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614395873291/CmG_gnQr_.png" alt="Introducing Gradient King - Never again run out of gradients! 🌈" width="250px" align="left" /></a>
-<a href="https://savio.xyz/introducing-gradient-king-never-again-run-out-of-gradients" title="Introducing Gradient King - Never again run out of gradients! 🌈"><strong>Introducing Gradient King - Never again run out of gradients! 🌈</strong></a>
-<br/> Hello Geeks 👋
-This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies. Due to exams, I wasn't able to attend the last ha... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
