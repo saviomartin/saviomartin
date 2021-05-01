@@ -45,6 +45,11 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [34 Ultimate VS Code Extensions to Increase Productivity! 💪](https://savio.xyz/34-ultimate-vs-code-extensions-to-increase-productivity)
+- [Set Up Tailwind In React - The fastest way! 🚀](https://savio.xyz/set-up-tailwind-in-react-the-fastest-way)
+- [Creating a super productive REST API in 30 seconds 💪](https://savio.xyz/creating-a-super-productive-rest-api-in-30-seconds)
+- [Creating an amazing Image search app using Unsplash API with infinite scrolling 📸](https://savio.xyz/creating-an-amazing-image-search-app-using-unsplash-api-with-infinite-scrolling)
+- [Introducing Hashtree - Link tree for all hashnode users ✌](https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Status 🦸
