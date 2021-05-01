@@ -1,5 +1,7 @@
 # Hey, I am Savio 👋✌️
 
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer)
+
 I'm 14-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
 
 - 🔭 I’m currently working on my MERN Stack
@@ -17,7 +19,7 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 - [LinkedIn](https://www.linkedin.com/in/saviomartin)
 - [Twitter](https://twitter.com/saviomartin7)
 - [Codepen](https://codepen.io/saviomartin/)
-- [Figma](https://www.figma.com/@saviomartin
+- [Figma](https://www.figma.com/@saviomartin)
 - [Hashnode](https://hashnode.com/@saviomartin)
 - [Dev.to](https://dev.to/saviomartin)
 
@@ -45,6 +47,7 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [34 Ultimate VS Code Extensions to Increase Productivity! 💪](https://savio.xyz/34-ultimate-vs-code-extensions-to-increase-productivity)
 - [Set Up Tailwind In React - The fastest way! 🚀](https://savio.xyz/set-up-tailwind-in-react-the-fastest-way)
 - [Creating a super productive REST API in 30 seconds 💪](https://savio.xyz/creating-a-super-productive-rest-api-in-30-seconds)
@@ -52,11 +55,14 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 - [Introducing Hashtree - Link tree for all hashnode users ✌](https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users)
 <!-- BLOG-POST-LIST:END -->
 
+## 👨‍💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-![](https://activity-graph.herokuapp.com/graph?username=saviomartin&bg_color=B065DC&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=true)
 
 ## My Github Activity ⚡
 
@@ -65,7 +71,8 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 
 ## My Trending Repos 💻
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/gradientking)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=hashtree&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/hashtree)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
