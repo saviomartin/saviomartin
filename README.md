@@ -47,7 +47,6 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [34 Ultimate VS Code Extensions to Increase Productivity! 💪](https://savio.xyz/34-ultimate-vs-code-extensions-to-increase-productivity)
 - [Set Up Tailwind In React - The fastest way! 🚀](https://savio.xyz/set-up-tailwind-in-react-the-fastest-way)
 - [Creating a super productive REST API in 30 seconds 💪](https://savio.xyz/creating-a-super-productive-rest-api-in-30-seconds)
