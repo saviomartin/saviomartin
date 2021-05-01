@@ -84,7 +84,6 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
 ## My Trending Repos 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/gradientking)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=hashtree&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/hashtree)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
