@@ -1,26 +1,25 @@
 # Hey, I am Savio 👋✌️
-I'm 14-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I'm currently learning Mobile app development. I love to share my resources and expertise with the dev community. I regularly write articles on [my blog](https://savio.xyz/).
 
+I'm 14-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
 
-
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Mobile App development
+- 🔭 I’m currently working on my MERN Stack
+- 🌱 I’m currently learning Backend & APIs
 - 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Mobile App development
+- 🤔 I’m looking for help with Backend & APIs
 - 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: saviomartin2007@gmail.com
+- 📫 How to reach me: [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com) & [Twitter @SavioMartin7](https://twitter.com/SavioMartin7)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't stop procastination
-</samp>
+- ⚡ Fun fact: Big fan of 🌈
 
 ## Find me around the web 🌍
+
 - [Instagram](https://www.instagram.com/teen_developer/)
 - [LinkedIn](https://www.linkedin.com/in/saviomartin)
 - [Twitter](https://twitter.com/saviomartin7)
 - [Codepen](https://codepen.io/saviomartin/)
-- [Figma](https://www.figma.com/@savio)
+- [Figma](https://www.figma.com/@saviomartin
 - [Hashnode](https://hashnode.com/@saviomartin)
-- [Medium](https://medium.com/@saviomartin)
+- [Dev.to](https://dev.to/saviomartin)
 
 ## My skills 🚀
 
@@ -44,63 +43,23 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My Recent Blog posts ✍️
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://savio.xyz/creating-an-amazing-image-search-app-using-unsplash-api-with-infinite-scrolling" title="Creating an amazing Image search app using Unsplash API with infinite scrolling 📸"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1617952919639/lmVMx7P6P.png" alt="Creating an amazing Image search app using Unsplash API with infinite scrolling 📸" width="250px" align="left" /></a>
-<a href="https://savio.xyz/creating-an-amazing-image-search-app-using-unsplash-api-with-infinite-scrolling" title="Creating an amazing Image search app using Unsplash API with infinite scrolling 📸"><strong>Creating an amazing Image search app using Unsplash API with infinite scrolling 📸</strong></a>
-<br/> Hello Folks 👋
-This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
-Today, I'm super pumped to build an amazing Image... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users" title="Introducing Hashtree - Link tree for all hashnode users ✌"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616835612451/d7DiMhtk-.png" alt="Introducing Hashtree - Link tree for all hashnode users ✌" width="250px" align="left" /></a>
-<a href="https://savio.xyz/introducing-hashtree-link-tree-for-all-hashnode-users" title="Introducing Hashtree - Link tree for all hashnode users ✌"><strong>Introducing Hashtree - Link tree for all hashnode users ✌</strong></a>
-<br/> Hello Devs 👋
-This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
-Little flashback
-I was introduced to hashnode API ... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/use-local-storage-in-react-the-fastest-way" title="Use Local Storage in React - The fastest way! 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616735807235/dwlSzyIg2.png" alt="Use Local Storage in React - The fastest way! 🚀" width="250px" align="left" /></a>
-<a href="https://savio.xyz/use-local-storage-in-react-the-fastest-way" title="Use Local Storage in React - The fastest way! 🚀"><strong>Use Local Storage in React - The fastest way! 🚀</strong></a>
-<br/> Hello Devs 👋
-This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
-Today, I'm gonna share how you can use local stora... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/25-marvelous-resources-to-satisfy-your-image-needs" title="25 Marvelous Resources to satisfy your image needs 🙌"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616477264134/VMwnyptV0.png" alt="25 Marvelous Resources to satisfy your image needs 🙌" width="250px" align="left" /></a>
-<a href="https://savio.xyz/25-marvelous-resources-to-satisfy-your-image-needs" title="25 Marvelous Resources to satisfy your image needs 🙌"><strong>25 Marvelous Resources to satisfy your image needs 🙌</strong></a>
-<br/> Hello Devs 👋
-This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
-Today, I'm gonna share 25 Marvelous Resources to s... </p> <br/> <br/>
-<p align="left">
-<a href="https://savio.xyz/111-amazing-resources-youre-gonna-love" title="111 amazing resources you're gonna love 💖"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1616068062442/ZL-3pdvY3.jpeg" alt="111 amazing resources you're gonna love 💖" width="250px" align="left" /></a>
-<a href="https://savio.xyz/111-amazing-resources-youre-gonna-love" title="111 amazing resources you're gonna love 💖"><strong>111 amazing resources you're gonna love 💖</strong></a>
-<br/> Hello Devs 👋
-This is Savio here. I'm young dev with an intention to enhance as a successful web developer. I love building web apps with React. I have proved my superiority in frontend technologies.
-Today, I'm gonna share 100+ super amazing resource... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## My Github Status 🦸
+
 ![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
-![](https://activity-graph.herokuapp.com/graph?username=saviomartin&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=saviomartin&bg_color=B065DC&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=true)
 
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/saviomartin/hashtree/pull/1) in [saviomartin/hashtree](https://github.com/saviomartin/hashtree)
-2. 💪 Opened PR [#1](https://github.com/saviomartin/hashtree/pull/1) in [saviomartin/hashtree](https://github.com/saviomartin/hashtree)
-3. 🎉 Merged PR [#19](https://github.com/saviomartin/gradientking/pull/19) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-4. 🗣 Commented on [#19](https://github.com/saviomartin/gradientking/issues/19) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-5. 🎉 Merged PR [#18](https://github.com/saviomartin/gradientking/pull/18) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
 <!--END_SECTION:activity-->
 
-## StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Savio Martin for Expo-cli installed but when running any expo command I get "zsh: command not found: expo"](https://stackoverflow.com/questions/62971258/expo-cli-installed-but-when-running-any-expo-command-i-get-zsh-command-not-fou/65660797#65660797)
-- [Answer by Savio Martin for Expo-cli is installed but "-bash: expo: command not found"](https://stackoverflow.com/questions/54248522/expo-cli-is-installed-but-bash-expo-command-not-found/65660775#65660775)
-<!-- STACKOVERFLOW:END -->
-
 ## My Trending Repos 💻
+
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
