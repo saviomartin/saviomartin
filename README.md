@@ -73,11 +73,11 @@ Git Config   7 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
-2. 🗣 Commented on [#35](https://github.com/fossunited/community/issues/35) in [fossunited/community](https://github.com/fossunited/community)
-3. 🗣 Commented on [#35](https://github.com/fossunited/community/issues/35) in [fossunited/community](https://github.com/fossunited/community)
-4. 💪 Opened PR [#7](https://github.com/surjithctly/web3forms-docs/pull/7) in [surjithctly/web3forms-docs](https://github.com/surjithctly/web3forms-docs)
-5. 💪 Opened PR [#6](https://github.com/surjithctly/web3forms-docs/pull/6) in [surjithctly/web3forms-docs](https://github.com/surjithctly/web3forms-docs)
+1. ❗️ Closed issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
+2. 🗣 Commented on [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
+3. ❗️ Opened issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
+4. 🗣 Commented on [#35](https://github.com/fossunited/community/issues/35) in [fossunited/community](https://github.com/fossunited/community)
+5. 🗣 Commented on [#35](https://github.com/fossunited/community/issues/35) in [fossunited/community](https://github.com/fossunited/community)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
