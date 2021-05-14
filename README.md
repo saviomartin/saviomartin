@@ -73,11 +73,11 @@ JSON         35 mins         ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
-2. 🗣 Commented on [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
-3. ❗️ Opened issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
-4. 🗣 Commented on [#35](https://github.com/fossunited/community/issues/35) in [fossunited/community](https://github.com/fossunited/community)
-5. 🗣 Commented on [#35](https://github.com/fossunited/community/issues/35) in [fossunited/community](https://github.com/fossunited/community)
+1. 🗣 Commented on [#3](https://github.com/saviomartin/loficlub/issues/3) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+2. 🗣 Commented on [#2](https://github.com/saviomartin/loficlub/issues/2) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+3. ❗️ Closed issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
+4. 🗣 Commented on [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
+5. ❗️ Opened issue [#123](https://github.com/vydimitrov/react-countdown-circle-timer/issues/123) in [vydimitrov/react-countdown-circle-timer](https://github.com/vydimitrov/react-countdown-circle-timer)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
