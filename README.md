@@ -73,11 +73,11 @@ JSON         30 mins         ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/saviomartin/loficlub/issues/4) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-2. 🎉 Merged PR [#1](https://github.com/saviomartin/loficlub/pull/1) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-3. 🗣 Commented on [#4](https://github.com/saviomartin/loficlub/issues/4) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-4. 🗣 Commented on [#3](https://github.com/saviomartin/loficlub/issues/3) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-5. 🗣 Commented on [#3](https://github.com/saviomartin/loficlub/issues/3) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+1. 🎉 Merged PR [#6](https://github.com/saviomartin/loficlub/pull/6) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+2. 🗣 Commented on [#6](https://github.com/saviomartin/loficlub/issues/6) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+3. 🎉 Merged PR [#8](https://github.com/saviomartin/loficlub/pull/8) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+4. 🗣 Commented on [#4](https://github.com/saviomartin/loficlub/issues/4) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+5. 🎉 Merged PR [#1](https://github.com/saviomartin/loficlub/pull/1) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
