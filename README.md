@@ -47,11 +47,11 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Set Up Tailwind JIT In React - The fastest way! 🚀](https://savio.xyz/set-up-tailwind-jit-in-react-the-fastest-way)
 - [Setup Google, Github and Facebook Authentication in your React App 🚀](https://savio.xyz/setup-google-github-and-facebook-authentication-in-your-react-app)
 - [Introducing Lofi Club - Enjoy Hip hop beats to Relax or Code! 🎧](https://savio.xyz/introducing-lofi-club-enjoy-hip-hop-beats-to-relax-or-code)
 - [34 Ultimate VS Code Extensions to Increase Productivity! 💪](https://savio.xyz/34-ultimate-vs-code-extensions-to-increase-productivity)
 - [Set Up Tailwind In React - The fastest way! 🚀](https://savio.xyz/set-up-tailwind-in-react-the-fastest-way)
-- [Creating a super productive REST API in 30 seconds 💪](https://savio.xyz/creating-a-super-productive-rest-api-in-30-seconds)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Weekly Development Breakdown
