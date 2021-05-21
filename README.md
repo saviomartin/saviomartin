@@ -73,11 +73,11 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/saviomartin/gradientking/pull/21) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-2. 💪 Opened PR [#21](https://github.com/saviomartin/gradientking/pull/21) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-3. 🗣 Commented on [#4](https://github.com/saviomartin/loficlub/issues/4) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-4. 🎉 Merged PR [#6](https://github.com/saviomartin/loficlub/pull/6) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-5. 🗣 Commented on [#6](https://github.com/saviomartin/loficlub/issues/6) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+1. 🎉 Merged PR [#22](https://github.com/saviomartin/gradientking/pull/22) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+2. 💪 Opened PR [#22](https://github.com/saviomartin/gradientking/pull/22) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+3. 🎉 Merged PR [#21](https://github.com/saviomartin/gradientking/pull/21) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. 💪 Opened PR [#21](https://github.com/saviomartin/gradientking/pull/21) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+5. 🗣 Commented on [#4](https://github.com/saviomartin/loficlub/issues/4) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
