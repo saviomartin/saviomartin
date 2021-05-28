@@ -73,11 +73,11 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/saviomartin/gradientking/issues/23) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-2. 🗣 Commented on [#23](https://github.com/saviomartin/gradientking/issues/23) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-3. 💪 Opened PR [#113](https://github.com/PuruVJ/macos-web/pull/113) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
-4. 🗣 Commented on [#112](https://github.com/PuruVJ/macos-web/issues/112) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
-5. ❗️ Opened issue [#112](https://github.com/PuruVJ/macos-web/issues/112) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
+1. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+2. ❗️ Closed issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+3. ❗️ Opened issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. ❗️ Closed issue [#4](https://github.com/saviomartin/gradientking/issues/4) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+5. 🗣 Commented on [#4](https://github.com/saviomartin/gradientking/issues/4) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
