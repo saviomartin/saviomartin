@@ -73,11 +73,11 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](https://github.com/PuruVJ/macos-web/pull/113) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
-2. 🗣 Commented on [#112](https://github.com/PuruVJ/macos-web/issues/112) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
-3. ❗️ Opened issue [#112](https://github.com/PuruVJ/macos-web/issues/112) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
-4. 🎉 Merged PR [#22](https://github.com/saviomartin/gradientking/pull/22) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-5. 💪 Opened PR [#22](https://github.com/saviomartin/gradientking/pull/22) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+1. ❗️ Closed issue [#23](https://github.com/saviomartin/gradientking/issues/23) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+2. 🗣 Commented on [#23](https://github.com/saviomartin/gradientking/issues/23) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+3. 💪 Opened PR [#113](https://github.com/PuruVJ/macos-web/pull/113) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
+4. 🗣 Commented on [#112](https://github.com/PuruVJ/macos-web/issues/112) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
+5. ❗️ Opened issue [#112](https://github.com/PuruVJ/macos-web/issues/112) in [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
