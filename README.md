@@ -73,11 +73,11 @@ HTML         19 mins         ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. ❗️ Closed issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-3. ❗️ Opened issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-4. ❗️ Closed issue [#4](https://github.com/saviomartin/gradientking/issues/4) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-5. 🗣 Commented on [#4](https://github.com/saviomartin/gradientking/issues/4) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+1. 🎉 Merged PR [#1](https://github.com/saviomartin/tweeter/pull/1) in [saviomartin/tweeter](https://github.com/saviomartin/tweeter)
+2. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+3. ❗️ Closed issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. ❗️ Opened issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+5. ❗️ Closed issue [#4](https://github.com/saviomartin/gradientking/issues/4) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
