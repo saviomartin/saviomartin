@@ -73,11 +73,11 @@ JSON         16 mins         ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-2. ❗️ Opened issue [#261](https://github.com/yjose/reactjs-popup/issues/261) in [yjose/reactjs-popup](https://github.com/yjose/reactjs-popup)
-3. 🎉 Merged PR [#1](https://github.com/saviomartin/tweeter/pull/1) in [saviomartin/tweeter](https://github.com/saviomartin/tweeter)
-4. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-5. ❗️ Closed issue [#25](https://github.com/saviomartin/gradientking/issues/25) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+1. 🎉 Merged PR [#12](https://github.com/saviomartin/loficlub/pull/12) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+2. 🗣 Commented on [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+3. ❗️ Opened issue [#261](https://github.com/yjose/reactjs-popup/issues/261) in [yjose/reactjs-popup](https://github.com/yjose/reactjs-popup)
+4. 🎉 Merged PR [#1](https://github.com/saviomartin/tweeter/pull/1) in [saviomartin/tweeter](https://github.com/saviomartin/tweeter)
+5. 🗣 Commented on [#143](https://github.com/all-contributors/all-contributors/issues/143) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
