@@ -47,11 +47,11 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://savio.xyz/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
 - [Create a Search Filter in React from Scratch 🔎](https://savio.xyz/create-a-search-filter-in-react-from-scratch)
 - [Setup Email Authentication with Reset option in React App 🚀](https://savio.xyz/setup-email-authentication-with-reset-option-in-react-app)
 - [Setup Phone Authentication with OTP in your React App 🚀](https://savio.xyz/setup-phone-authentication-with-otp-in-your-react-app)
 - [Create a Dark Mode toggler with Tailwind ⚡️](https://savio.xyz/create-a-dark-mode-toggler-with-tailwind)
-- [Set Up Tailwind JIT In React - The fastest way! 🚀](https://savio.xyz/set-up-tailwind-jit-in-react-the-fastest-way)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Weekly Development Breakdown
