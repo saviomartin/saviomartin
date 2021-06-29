@@ -73,11 +73,11 @@ HTML         3 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/TryShape/tryshape/issues/62) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-2. ❗️ Closed issue [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-3. 🎉 Merged PR [#12](https://github.com/saviomartin/loficlub/pull/12) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-4. 🗣 Commented on [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-5. ❗️ Opened issue [#261](https://github.com/yjose/reactjs-popup/issues/261) in [yjose/reactjs-popup](https://github.com/yjose/reactjs-popup)
+1. 💪 Opened PR [#72](https://github.com/TryShape/tryshape/pull/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+2. ❗️ Opened issue [#62](https://github.com/TryShape/tryshape/issues/62) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+3. ❗️ Closed issue [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+4. 🎉 Merged PR [#12](https://github.com/saviomartin/loficlub/pull/12) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+5. 🗣 Commented on [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
