@@ -73,11 +73,11 @@ HTML         3 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/TryShape/tryshape/pull/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-2. ❗️ Opened issue [#62](https://github.com/TryShape/tryshape/issues/62) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-3. ❗️ Closed issue [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-4. 🎉 Merged PR [#12](https://github.com/saviomartin/loficlub/pull/12) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
-5. 🗣 Commented on [#11](https://github.com/saviomartin/loficlub/issues/11) in [saviomartin/loficlub](https://github.com/saviomartin/loficlub)
+1. ❗️ Closed issue [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+2. 🗣 Commented on [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+3. 🗣 Commented on [#72](https://github.com/TryShape/tryshape/issues/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+4. 🗣 Commented on [#72](https://github.com/TryShape/tryshape/issues/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+5. 💪 Opened PR [#72](https://github.com/TryShape/tryshape/pull/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
