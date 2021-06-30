@@ -73,11 +73,11 @@ HTML         3 mins          ░░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-2. 🗣 Commented on [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#72](https://github.com/TryShape/tryshape/issues/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+1. 🗣 Commented on [#5](https://github.com/saviomartin/codehouse/issues/5) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+2. ❗️ Closed issue [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+3. 🗣 Commented on [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 4. 🗣 Commented on [#72](https://github.com/TryShape/tryshape/issues/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-5. 💪 Opened PR [#72](https://github.com/TryShape/tryshape/pull/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+5. 🗣 Commented on [#72](https://github.com/TryShape/tryshape/issues/72) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
