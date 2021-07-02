@@ -1,6 +1,6 @@
-# Hey, I am Savio 👋✌️
+# Hello, I am Savio 👋
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer)
+![](./github-banner.png)
 
 I'm 14-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
 
