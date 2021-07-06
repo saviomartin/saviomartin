@@ -73,11 +73,11 @@ TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/TryShape/tryshape/pull/76) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
-2. 🎉 Merged PR [#6](https://github.com/saviomartin/codehouse/pull/6) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#5](https://github.com/saviomartin/codehouse/issues/5) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-4. ❗️ Closed issue [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-5. 🗣 Commented on [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+1. 🗣 Commented on [#7](https://github.com/saviomartin/codehouse/issues/7) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+2. 💪 Opened PR [#76](https://github.com/TryShape/tryshape/pull/76) in [TryShape/tryshape](https://github.com/TryShape/tryshape)
+3. 🎉 Merged PR [#6](https://github.com/saviomartin/codehouse/pull/6) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+4. 🗣 Commented on [#5](https://github.com/saviomartin/codehouse/issues/5) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+5. ❗️ Closed issue [#4](https://github.com/saviomartin/codehouse/issues/4) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
