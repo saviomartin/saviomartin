@@ -70,11 +70,11 @@ JavaScript   48 mins         ██████████▒░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/saviomartin/codehouse/issues/5) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-2. 🎉 Merged PR [#9](https://github.com/saviomartin/codehouse/pull/9) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#9](https://github.com/saviomartin/codehouse/issues/9) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-4. 🎉 Merged PR [#8](https://github.com/saviomartin/codehouse/pull/8) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-5. 🗣 Commented on [#7](https://github.com/saviomartin/codehouse/issues/7) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+1. 🗣 Commented on [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+2. 🗣 Commented on [#2](https://github.com/saviomartin/slickr/issues/2) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+3. 🗣 Commented on [#5](https://github.com/saviomartin/codehouse/issues/5) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+4. 🎉 Merged PR [#9](https://github.com/saviomartin/codehouse/pull/9) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+5. 🗣 Commented on [#9](https://github.com/saviomartin/codehouse/issues/9) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
