@@ -47,11 +47,11 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://savio.xyz/introducing-slickr-the-most-powerful-cover-image-generator-for-your-hashnode-blog)
-- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://savio.xyz/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
-- [Create a Search Filter in React from Scratch 🔎](https://savio.xyz/create-a-search-filter-in-react-from-scratch)
-- [Setup Email Authentication with Reset option in React App 🚀](https://savio.xyz/setup-email-authentication-with-reset-option-in-react-app)
-- [Setup Phone Authentication with OTP in your React App 🚀](https://savio.xyz/setup-phone-authentication-with-otp-in-your-react-app)
+- [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://saviomartin.com/introducing-slickr-the-most-powerful-cover-image-generator-for-your-hashnode-blog)
+- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://saviomartin.com/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
+- [Create a Search Filter in React from Scratch 🔎](https://saviomartin.com/create-a-search-filter-in-react-from-scratch)
+- [Setup Email Authentication with Reset option in React App 🚀](https://saviomartin.com/setup-email-authentication-with-reset-option-in-react-app)
+- [Setup Phone Authentication with OTP in your React App 🚀](https://saviomartin.com/setup-phone-authentication-with-otp-in-your-react-app)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Weekly Development Breakdown
