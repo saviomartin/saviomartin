@@ -58,10 +58,10 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   15 hrs 3 mins   ██████████████████████░░░   87.42 % 
-CSS          1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript   11 hrs 25 mins  ██████████████████████▒░░   88.81 % 
+CSS          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Markdown     29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
 
