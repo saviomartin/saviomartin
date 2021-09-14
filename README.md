@@ -71,11 +71,11 @@ CSS          30 mins         ██░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Hashnode/support/issues/42) in [Hashnode/support](https://github.com/Hashnode/support)
-2. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-4. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-5. 🎉 Merged PR [#4](https://github.com/saviomartin/slickr/pull/4) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+1. 🗣 Commented on [#2](https://github.com/saviomartin/moodly/issues/2) in [saviomartin/moodly](https://github.com/saviomartin/moodly)
+2. 🗣 Commented on [#3](https://github.com/saviomartin/moodly/issues/3) in [saviomartin/moodly](https://github.com/saviomartin/moodly)
+3. ❗️ Opened issue [#42](https://github.com/Hashnode/support/issues/42) in [Hashnode/support](https://github.com/Hashnode/support)
+4. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
+5. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
