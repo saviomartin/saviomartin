@@ -72,11 +72,11 @@ Text         10 mins         ▓░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/Hashnode/support/issues/42) in [Hashnode/support](https://github.com/Hashnode/support)
-2. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-4. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-5. 🎉 Merged PR [#4](https://github.com/saviomartin/slickr/pull/4) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+1. 💪 Opened PR [#831](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/831) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+2. 🎉 Merged PR [#1](https://github.com/saviomartin/Best-websites-a-programmer-should-visit/pull/1) in [saviomartin/Best-websites-a-programmer-should-visit](https://github.com/saviomartin/Best-websites-a-programmer-should-visit)
+3. 💪 Opened PR [#1](https://github.com/saviomartin/Best-websites-a-programmer-should-visit/pull/1) in [saviomartin/Best-websites-a-programmer-should-visit](https://github.com/saviomartin/Best-websites-a-programmer-should-visit)
+4. ❗️ Opened issue [#42](https://github.com/Hashnode/support/issues/42) in [Hashnode/support](https://github.com/Hashnode/support)
+5. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
