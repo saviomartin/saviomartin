@@ -72,11 +72,11 @@ Text         10 mins         ▓░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/JoshuaPoddoku/JoshuaPoddoku/pull/2) in [JoshuaPoddoku/JoshuaPoddoku](https://github.com/JoshuaPoddoku/JoshuaPoddoku)
-2. ❌ Closed PR [#28](https://github.com/saviomartin/gradientking/pull/28) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
-3. 💪 Opened PR [#1](https://github.com/ZoCodes/ZoCodes/pull/1) in [ZoCodes/ZoCodes](https://github.com/ZoCodes/ZoCodes)
-4. 💪 Opened PR [#1](https://github.com/avneesh0612/avneesh0612/pull/1) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
-5. 💪 Opened PR [#7](https://github.com/saviomartin/saviomartin/pull/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+1. 💪 Opened PR [#1](https://github.com/markodenic/markodenic/pull/1) in [markodenic/markodenic](https://github.com/markodenic/markodenic)
+2. 💪 Opened PR [#2](https://github.com/JoshuaPoddoku/JoshuaPoddoku/pull/2) in [JoshuaPoddoku/JoshuaPoddoku](https://github.com/JoshuaPoddoku/JoshuaPoddoku)
+3. ❌ Closed PR [#28](https://github.com/saviomartin/gradientking/pull/28) in [saviomartin/gradientking](https://github.com/saviomartin/gradientking)
+4. 💪 Opened PR [#1](https://github.com/ZoCodes/ZoCodes/pull/1) in [ZoCodes/ZoCodes](https://github.com/ZoCodes/ZoCodes)
+5. 💪 Opened PR [#1](https://github.com/avneesh0612/avneesh0612/pull/1) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
