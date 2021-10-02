@@ -72,11 +72,11 @@ Text         10 mins         ▓░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/shahednasser/awesome-resources/pull/146) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
-2. 💪 Opened PR [#831](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/831) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-3. 🎉 Merged PR [#1](https://github.com/saviomartin/Best-websites-a-programmer-should-visit/pull/1) in [saviomartin/Best-websites-a-programmer-should-visit](https://github.com/saviomartin/Best-websites-a-programmer-should-visit)
-4. 💪 Opened PR [#1](https://github.com/saviomartin/Best-websites-a-programmer-should-visit/pull/1) in [saviomartin/Best-websites-a-programmer-should-visit](https://github.com/saviomartin/Best-websites-a-programmer-should-visit)
-5. ❗️ Opened issue [#42](https://github.com/Hashnode/support/issues/42) in [Hashnode/support](https://github.com/Hashnode/support)
+1. 💪 Opened PR [#1](https://github.com/ZoCodes/ZoCodes/pull/1) in [ZoCodes/ZoCodes](https://github.com/ZoCodes/ZoCodes)
+2. 💪 Opened PR [#1](https://github.com/avneesh0612/avneesh0612/pull/1) in [avneesh0612/avneesh0612](https://github.com/avneesh0612/avneesh0612)
+3. 💪 Opened PR [#7](https://github.com/saviomartin/saviomartin/pull/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+4. 💪 Opened PR [#39](https://github.com/bhargav794/hacktoberfest-practice-music-playlists/pull/39) in [bhargav794/hacktoberfest-practice-music-playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists)
+5. 💪 Opened PR [#38](https://github.com/bhargav794/hacktoberfest-practice-music-playlists/pull/38) in [bhargav794/hacktoberfest-practice-music-playlists](https://github.com/bhargav794/hacktoberfest-practice-music-playlists)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
