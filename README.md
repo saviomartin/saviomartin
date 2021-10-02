@@ -85,3 +85,6 @@ Text         10 mins         ▓░░░░░░░░░░░░░░░░
 [![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
+
+<h2>Watch a snake eating my Github Contributions</h2>
+<img src="https://github.com/kr-anurag/saviomartin/blob/output/github-contribution-grid-snake.gif" />
