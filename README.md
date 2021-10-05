@@ -71,11 +71,11 @@ Text         10 mins         █▒░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/saviomartin/savio-martin.github.io/pull/2) in [saviomartin/savio-martin.github.io](https://github.com/saviomartin/savio-martin.github.io)
-2. 🗣 Commented on [#2](https://github.com/saviomartin/savio-martin.github.io/issues/2) in [saviomartin/savio-martin.github.io](https://github.com/saviomartin/savio-martin.github.io)
-3. 💪 Opened PR [#146](https://github.com/shahednasser/awesome-resources/pull/146) in [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources)
-4. 💪 Opened PR [#831](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/831) in [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-5. 🎉 Merged PR [#1](https://github.com/saviomartin/Best-websites-a-programmer-should-visit/pull/1) in [saviomartin/Best-websites-a-programmer-should-visit](https://github.com/saviomartin/Best-websites-a-programmer-should-visit)
+1. ❌ Closed PR [#2](https://github.com/saviomartin/saviomartin/pull/2) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+2. 🗣 Commented on [#2](https://github.com/saviomartin/saviomartin/issues/2) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+3. ❌ Closed PR [#7](https://github.com/saviomartin/saviomartin/pull/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+4. 🗣 Commented on [#7](https://github.com/saviomartin/saviomartin/issues/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+5. ❌ Closed PR [#2](https://github.com/saviomartin/savio-martin.github.io/pull/2) in [saviomartin/savio-martin.github.io](https://github.com/saviomartin/savio-martin.github.io)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
