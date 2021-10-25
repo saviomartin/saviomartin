@@ -71,11 +71,11 @@ JSON         2 mins          ▒░░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-2. ❌ Closed PR [#2](https://github.com/saviomartin/saviomartin/pull/2) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
-3. 🗣 Commented on [#2](https://github.com/saviomartin/saviomartin/issues/2) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
-4. ❌ Closed PR [#7](https://github.com/saviomartin/saviomartin/pull/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
-5. 🗣 Commented on [#7](https://github.com/saviomartin/saviomartin/issues/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+1. 🗣 Commented on [#3](https://github.com/saviomartin/styler/issues/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
+2. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
+3. ❌ Closed PR [#2](https://github.com/saviomartin/saviomartin/pull/2) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+4. 🗣 Commented on [#2](https://github.com/saviomartin/saviomartin/issues/2) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+5. ❌ Closed PR [#7](https://github.com/saviomartin/saviomartin/pull/7) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
