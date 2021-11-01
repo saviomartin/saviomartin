@@ -73,9 +73,9 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-2. ❗️ Closed issue [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-3. ❌ Closed PR [#3](https://github.com/saviomartin/styler/pull/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
-4. 🗣 Commented on [#3](https://github.com/saviomartin/styler/issues/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
+2. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
+3. ❗️ Closed issue [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
+4. ❌ Closed PR [#3](https://github.com/saviomartin/styler/pull/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
 5. 🗣 Commented on [#3](https://github.com/saviomartin/styler/issues/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
 <!--END_SECTION:activity-->
 
