@@ -47,11 +47,11 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Killer JavaScript One Liners ☝️](https://saviomartin.com/20-killer-javascript-one-liners)
-- [Introducing Styler - The Next Generation CSS Builder in the Web for your Hashnode Blog ✨️](https://saviomartin.com/styler)
-- [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://saviomartin.com/introducing-slickr-the-most-powerful-cover-image-generator-for-your-hashnode-blog)
-- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://saviomartin.com/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
-- [Create a Search Filter in React from Scratch 🔎](https://saviomartin.com/create-a-search-filter-in-react-from-scratch)
+- [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
+- [Introducing Styler - The Next Generation CSS Builder in the Web for your Hashnode Blog ✨️](https://blog.saviomartin.com/styler)
+- [Introducing Slickr - The most powerful Cover Image generator for your Hashnode blog ✨️](https://blog.saviomartin.com/introducing-slickr-the-most-powerful-cover-image-generator-for-your-hashnode-blog)
+- [Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻](https://blog.saviomartin.com/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets)
+- [Create a Search Filter in React from Scratch 🔎](https://blog.saviomartin.com/create-a-search-filter-in-react-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Weekly Development Breakdown
