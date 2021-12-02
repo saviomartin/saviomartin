@@ -47,11 +47,11 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
 - [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
 - [Introducing Styler - The Next Generation CSS Builder ⚡️](https://blog.saviomartin.com/styler)
 - [Introducing Slickr - Powerful Cover Image generator ✨️](https://blog.saviomartin.com/introducing-slickr-powerful-cover-image-generator)
 - [Introducing Code House - Biggest Store of Cheat sheets 👨‍💻](https://blog.saviomartin.com/introducing-code-house-biggest-store-of-cheat-sheets)
-- [Create a Search Filter in React from Scratch 🔎](https://blog.saviomartin.com/create-a-search-filter-in-react-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Weekly Development Breakdown
