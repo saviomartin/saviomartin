@@ -81,7 +81,7 @@ JSON         3 mins          ░░░░░░░░░░░░░░░░░
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/gradientking)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/slickr)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/codehouse)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
