@@ -71,11 +71,11 @@ Other        34 mins         █▒░░░░░░░░░░░░░░░
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1927](https://github.com/amplication/amplication/issues/1927) in [amplication/amplication](https://github.com/amplication/amplication)
-2. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-3. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-4. ❗️ Closed issue [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-5. ❌ Closed PR [#3](https://github.com/saviomartin/styler/pull/3) in [saviomartin/styler](https://github.com/saviomartin/styler)
+1. 🎉 Merged PR [#8](https://github.com/saviomartin/saviomartin/pull/8) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+2. 🗣 Commented on [#8](https://github.com/saviomartin/saviomartin/issues/8) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
+3. ❗️ Opened issue [#1927](https://github.com/amplication/amplication/issues/1927) in [amplication/amplication](https://github.com/amplication/amplication)
+4. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
+5. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
