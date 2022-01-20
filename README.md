@@ -6,6 +6,12 @@ He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His wor
 
 [![Twitter](https://user-images.githubusercontent.com/61895712/150363205-8c2af146-cdea-4441-9802-2703e1b9d411.png)](https://twitter.com/saviomartin7)
 
+## What people say about Savio:
+- ***"Keep up the good work. 14 years old! amazing. I wish I go that early of a start. At 14 I was a mess lol. I see big things in your future"*** <br>
+   — [**Brad Traversy**](https://www.youtube.com/traversymedia), 1.75 million+ subscribers on Youtube
+- ***"You’re a very talented and admirable person! Glad I found you! Keep up the good work!"*** <br>
+   — [**Florin Pop**](https://www.youtube.com/florinpop), 133K+ subscribers on Youtube
+
 
 ### Savio is open to:
 - work oppurtunities
