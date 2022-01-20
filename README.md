@@ -2,7 +2,10 @@
 
 Savio Martin is 14 year old boy who spends time building useful products. He is a designer, front-end web developer, and content creator. 
 
-He has been nominated as Maker of The Year 2021 by Product Hunt. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
+He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
+
+[![Twitter](https://user-images.githubusercontent.com/61895712/150363205-8c2af146-cdea-4441-9802-2703e1b9d411.png)](https://twitter.com/saviomartin7)
+
 
 ### Savio is open to:
 - work oppurtunities
@@ -68,6 +71,5 @@ Text         12 mins         █▒░░░░░░░░░░░░░░░
  
 <br>
 
-If you'd love to contact savio, just send him a mail to [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com)
-
+<p align='center'><a href="https://twitter.com/saviomartin7">@saviomartin7<a> / <a href="mailto:saviomartin2007@gmail.com">saviomartin2007@gmail.com<a></p>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
