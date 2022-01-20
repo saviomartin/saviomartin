@@ -9,8 +9,18 @@ He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His wor
 ## What people say about Savio:
 - ***"Keep up the good work. 14 years old! amazing. I wish I go that early of a start. At 14 I was a mess lol. I see big things in your future"*** <br>
    — [**Brad Traversy**](https://www.youtube.com/traversymedia), 1.75 million+ subscribers on Youtube
+- ***"Your Twitter is insane. Great job on doing so much at such an early age!"*** <br>
+   — [**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery), 240K+ subscribers on YouTube
 - ***"You’re a very talented and admirable person! Glad I found you! Keep up the good work!"*** <br>
    — [**Florin Pop**](https://www.youtube.com/florinpop), 133K+ subscribers on Youtube
+- ***"You’re on next level boy. Just 14 and doing amazing things. I’m really inspired"*** <br>
+   — [**Pratham**](https://twitter.com/Prathkum), 159K+ followers on Twitter
+- ***"Right back at ya, Savio! Keep up the good work!"*** <br>
+   — [**Ahmad Awais**](https://twitter.com/MrAhmadAwais), GitHub star, Google Dev Expert
+- ***"Wow, congratulations and all the best! More power to you, Savio. :)"*** <br>
+   — [**Khushboo Verma**](https://twitter.com/khushboooverma), Software Engineer @Microsoft, 50k+ followers on Twitter
+- ***"Hey Savio! Very excited to follow you! Huge congrats on your first sale Savio!!!"*** <br>
+   — [**Paul Yacoubian**](https://twitter.com/PaulYacoubian), Founder and CEO of copy_ai
 
 
 ### Savio is open to:
