@@ -1,51 +1,42 @@
-# Hello, I am Savio 👋
+# Savio Martin
 
-![](https://raw.githubusercontent.com/saviomartin/saviomartin/main/github-banner%20(1).png)
+Savio Martin is 14 year old boy who spends time building useful products. He is a designer, front-end web developer, and content creator. 
 
-I'm 14-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community. Open to all DMs on [Twitter](https://twitter.com/SavioMartin7)
+He has been nominated as Maker of The Year 2021 by Product Hunt. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
 
-- 🔭 I’m currently working on my MERN Stack
-- 🌱 I’m currently learning Backend & APIs
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
-- 💬 Ask me about Frontend Technologies
-- 📫 How to reach me: [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com) & [Twitter @SavioMartin7](https://twitter.com/SavioMartin7)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Big fan of 🌈
+### Savio is open to:
+- work oppurtunities
+- sponsorships & paid video chat
+- developer advocacy oppurtunities
+- collaborations to build something great
 
-## Find me around the web 🌍
+If you'd love to talk, just send him a [DM on Twitter](https://twitter.com/saviomartin7)
 
-- [Instagram](https://www.instagram.com/teen_developer/)
-- [LinkedIn](https://www.linkedin.com/in/saviomartin)
-- [Twitter](https://twitter.com/saviomartin7)
-- [Codepen](https://codepen.io/saviomartin/)
-- [Figma](https://www.figma.com/@saviomartin)
-- [Hashnode](https://hashnode.com/@saviomartin)
-- [Dev.to](https://dev.to/saviomartin)
+## Find Savio:
+- He shares daily content on web development, useful tips and developer resources on [Twitter](https://twitter.com/saviomartin7)
+- He launches new products every month on [Producthunt](https://www.producthunt.com/@saviomartin)
+- He sometimes creates digital products on [Gumroad](https://saviomartin.gumroad.com/)
+- He writes sometimes for his blog on [Hashnode](https://blog.saviomartin.com/) and [Dev.to](https://dev.to/saviomartin)
 
-## My skills 🚀
+## Savio's works:
+If you'd love to support Savio in his journey, you can by him a [coffee here ☕️](https://ko-fi.com/savio). Savio builds useful apps free for everyone, your support is hugely appreciated. Here is his projects sorted by popularity:
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+- ### [CodeHouse](https://codehouse.vercel.app/)
+   Code House is an open source storehouse for helpful cheatsheets for developers to learn any tech. CodeHouse contains 300+ curated cheatsheets from 230+ sources. 
+- ### [Slickr](https://codehouse.vercel.app/)
+   Slickr is the powerful visual editor and open source canva alternative to create stunning cover images for your blogs. Slickr is packed with brilliant features to help you design faster and better.
+- ### [Moodly](http://moodly.site/) (sold)
+   Moodly is a simple productivity and focus tool designed help you get a better sense of focus and relaxation by listening to ambient nature sounds.
+- ### [Lofi Club](https://loficlub.vercel.app/) (sold)
+   Lofi Club is a productivity tool that make you work smarter with live 24/7 Lofi music. Its also comes with live chat and pomodoro to make work fun.
+- ### [Gradient King](https://gradient-king.vercel.app)
+   Gradient King a curated collection of 125+ elegant gradients to be used in your websites in 1 click. It also comes with a gradient generator which detects colours from an image and create a gradient from it.
 
-## My Recent Blog posts ✍️
+## Savio writes:
 
+Savio writes occasionally. He has a monthly newsletter called **Savio's Monthly Tech Life** which you can [subsribe here](https://www.getrevue.co/profile/saviomartin7). Join the tribe of 3,000+ developers and get notified when he build something cool, launch something useful and pass huge milestones :)
+
+He also has a blog. Savio give primary focus into building rather than writing, but he still aims to write 1 blog / month. Here is his recent blogs:
 <!-- BLOG-POST-LIST:START -->
 - [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
 - [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
@@ -54,7 +45,9 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 - [Introducing Code House - Biggest Store of Cheat sheets 👨‍💻](https://blog.saviomartin.com/introducing-code-house-biggest-store-of-cheat-sheets)
 <!-- BLOG-POST-LIST:END -->
 
-## 👨‍💻 Weekly Development Breakdown
+<br>
+
+Here is how much he spends weekly on building useful products:
 
 <!--START_SECTION:waka-->
 ```text
@@ -64,23 +57,17 @@ Text         12 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## My Github Status 🦸
+## Work with Savio
 
-![](https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+- ### Frontend Web Development
+   Savo builds stunning user interfaces that users enjoy with Next JS / React. He is also passionate, well thought and well planned.
+- ### Promotion
+  Savio builds a daily growing community of 35,000+ developers on his Twitter. Savio can help your company or startup grow by promoting it to his audience.
+- ### Collaboration
+  If you have a cool idea, Savio would love to work together in it. 
+ 
+<br>
 
-## My Github Activity ⚡
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/saviomartin/saviomartin/pull/8) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
-2. 🗣 Commented on [#8](https://github.com/saviomartin/saviomartin/issues/8) in [saviomartin/saviomartin](https://github.com/saviomartin/saviomartin)
-3. ❗️ Opened issue [#1927](https://github.com/amplication/amplication/issues/1927) in [amplication/amplication](https://github.com/amplication/amplication)
-4. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-5. 🗣 Commented on [#2](https://github.com/saviomartin/styler/issues/2) in [saviomartin/styler](https://github.com/saviomartin/styler)
-<!--END_SECTION:activity-->
-
-## My Trending Repos 💻
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=slickr&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/slickr)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=codehouse&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/codehouse)
+If you'd love to contact, just send him a mail to [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
