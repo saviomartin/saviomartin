@@ -68,6 +68,6 @@ Text         12 mins         █▒░░░░░░░░░░░░░░░
  
 <br>
 
-If you'd love to contact, just send him a mail to [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com)
+If you'd love to contact savio, just send him a mail to [saviomartin2007@gmail.com](mailto:saviomartin2007@gmail.com)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
