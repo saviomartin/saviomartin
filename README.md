@@ -42,7 +42,7 @@ If you'd love to support Savio in his journey, you can by him a [coffee here ☕
 
 - ### [CodeHouse](https://codehouse.vercel.app/)
    Code House is an open source storehouse for helpful cheatsheets for developers to learn any tech. CodeHouse contains 300+ curated cheatsheets from 230+ sources. 
-- ### [Slickr](https://codehouse.vercel.app/)
+- ### [Slickr](https://slickr.vercel.app/)
    Slickr is the powerful visual editor and open source canva alternative to create stunning cover images for your blogs. Slickr is packed with brilliant features to help you design faster and better.
 - ### [Moodly](http://moodly.site/) (sold)
    Moodly is a simple productivity and focus tool designed help you get a better sense of focus and relaxation by listening to ambient nature sounds.
