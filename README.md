@@ -24,10 +24,10 @@ He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His wor
 
 
 ### Savio is open to:
-- work oppurtunities
-- sponsorships & paid video chat
-- developer advocacy oppurtunities
-- collaborations to build something great
+- Work oppurtunities
+- Sponsorships & paid video chat
+- Developer advocacy oppurtunities & promotion oppurtunities
+- Collaborations to build something great
 
 If you'd love to talk, just send him a [DM on Twitter](https://twitter.com/saviomartin7)
 
