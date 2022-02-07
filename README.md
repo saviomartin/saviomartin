@@ -6,7 +6,7 @@ He has been recognized as **Maker of The Year 2021** by **Product Hunt**. His wo
 
 [![Twitter](https://user-images.githubusercontent.com/61895712/150363205-8c2af146-cdea-4441-9802-2703e1b9d411.png)](https://twitter.com/saviomartin7)
 
-## What people say about Savio:
+## What people say about me:
 - ***"Keep up the good work. 14 years old! amazing. I wish I go that early of a start. At 14 I was a mess lol. I see big things in your future"*** <br>
    — [**Brad Traversy**](https://www.youtube.com/traversymedia), 1.75 million+ subscribers on Youtube
 - ***"Your Twitter is insane. Great job on doing so much at such an early age!"*** <br>
