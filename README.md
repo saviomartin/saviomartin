@@ -1,8 +1,8 @@
 # Savio Martin 👋
 
-Savio Martin is 14 year old boy who spends time building useful products. He is a designer, front-end web developer, and content creator. 
+Savio Martin is a Frontend Web Developer who spends time building useful products. He is a designer, front-end web developer, and content creator. 
 
-He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
+He has been recognized as **Maker of The Year 2021** by **Product Hunt**. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
 
 [![Twitter](https://user-images.githubusercontent.com/61895712/150363205-8c2af146-cdea-4441-9802-2703e1b9d411.png)](https://twitter.com/saviomartin7)
 
@@ -23,7 +23,7 @@ He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His wor
    — [**Paul Yacoubian**](https://twitter.com/PaulYacoubian), Founder and CEO of copy_ai
 
 
-### Savio is open to:
+### I'm open to:
 - Work oppurtunities
 - Sponsorships & paid video chat
 - Developer advocacy oppurtunities & promotion oppurtunities
@@ -31,13 +31,13 @@ He has been nominated as **Maker of The Year 2021** by **Product Hunt**. His wor
 
 If you'd love to talk, just send him a [DM on Twitter](https://twitter.com/saviomartin7)
 
-## Find Savio:
+## Find me:
 - He shares daily content on web development, useful tips and developer resources on [Twitter](https://twitter.com/saviomartin7)
 - He launches new products every month on [Producthunt](https://www.producthunt.com/@saviomartin)
 - He sometimes creates digital products on [Gumroad](https://saviomartin.gumroad.com/)
 - He writes sometimes for his blog on [Hashnode](https://blog.saviomartin.com/) and [Dev.to](https://dev.to/saviomartin)
 
-## Savio's works:
+## My popular works:
 If you'd love to support Savio in his journey, you can by him a [coffee here ☕️](https://ko-fi.com/savio). Savio builds useful apps free for everyone, your support is hugely appreciated. Here is his projects sorted by popularity:
 
 - ### [CodeHouse](https://codehouse.vercel.app/)
@@ -51,7 +51,7 @@ If you'd love to support Savio in his journey, you can by him a [coffee here ☕
 - ### [Gradient King](https://gradient-king.vercel.app)
    Gradient King a curated collection of 125+ elegant gradients to be used in your websites in 1 click. It also comes with a gradient generator which detects colours from an image and create a gradient from it.
 
-## Savio writes:
+## My writings:
 
 Savio writes occasionally. He has a monthly newsletter called **Savio's Monthly Tech Life** which you can [subsribe here](https://www.getrevue.co/profile/saviomartin7). Join the tribe of 3,000+ developers and get notified when he build something cool, launch something useful and pass huge milestones :)
 
@@ -76,7 +76,7 @@ XML          1 min           ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## Work with Savio
+## Work with me
 
 - ### Frontend Web Development
    Savo builds stunning user interfaces that users enjoy with Next JS / React. He is also passionate, well thought and well planned.
