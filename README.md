@@ -19,8 +19,8 @@ He has been recognized as **Maker of The Year 2021** by **Product Hunt**. His wo
    — [**Ahmad Awais**](https://twitter.com/MrAhmadAwais), GitHub star, Google Dev Expert
 - ***"Wow, congratulations and all the best! More power to you, Savio. :)"*** <br>
    — [**Khushboo Verma**](https://twitter.com/khushboooverma), Software Engineer @Microsoft, 50k+ followers on Twitter
-- ***"Hey Savio! Very excited to follow you! Huge congrats on your first sale Savio!!!"*** <br>
-   — [**Paul Yacoubian**](https://twitter.com/PaulYacoubian), Founder and CEO of copy_ai
+- ***"you're killing it man at the age of 14!"*** <br>
+   — [**Csaba Kissi**](https://twitter.com/csaba_kissi), 60K+ Followers on Twitter
 
 
 ### I'm open to:
