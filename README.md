@@ -69,11 +69,14 @@ He also has a blog. Savio give primary focus into building rather than writing, 
 Here is how much he spends weekly on building useful products:
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   1 hr 59 mins    ████████████████████░░░░░   80.59 % 
-CSS          19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-XML          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JavaScript   16 hrs 48 mins  ███████████████████████▓░   94.16 %
+CSS          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+XML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## Work with me
