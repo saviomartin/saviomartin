@@ -71,9 +71,11 @@ Here is how much he spends weekly on building useful products:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 38 mins   ███████████████████████▓░   94.56 %
-CSS          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TypeScript   13 hrs 55 mins  ███████████████████████▓░   95.29 %
+CSS          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
