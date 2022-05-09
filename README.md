@@ -1,8 +1,8 @@
-# Savio Martin 👋
+# Hey, I'm Savio 👋
 
 Savio Martin is a 15 year old who spends time building useful products. He is a designer, front-end web developer, and content creator.
 
-He has been recognized as **Maker of The Year 2021** by **Product Hunt**. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
+I got recognized as **Maker of The Year 2021** by **Product Hunt**. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
 
 [![Twitter](https://user-images.githubusercontent.com/61895712/150363205-8c2af146-cdea-4441-9802-2703e1b9d411.png)](https://twitter.com/saviomartin7)
 
@@ -29,16 +29,10 @@ He has been recognized as **Maker of The Year 2021** by **Product Hunt**. His wo
 - Developer advocacy oppurtunities & promotion oppurtunities
 - Collaborations to build something great
 
-If you'd love to talk, just send him a [DM on Twitter](https://twitter.com/saviomartin7)
-
-## Find me:
-- He shares daily content on web development, useful tips and developer resources on [Twitter](https://twitter.com/saviomartin7)
-- He launches new products every month on [Producthunt](https://www.producthunt.com/@saviomartin)
-- He sometimes creates digital products on [Gumroad](https://saviomartin.gumroad.com/)
-- He writes sometimes for his blog on [Hashnode](https://blog.saviomartin.com/) and [Dev.to](https://dev.to/saviomartin)
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/saviomartin7)
 
 ## My popular works:
-If you'd love to support Savio in his journey, you can by him a [coffee here ☕️](https://ko-fi.com/savio). Savio builds useful apps free for everyone, your support is hugely appreciated. Here is his projects sorted by popularity:
+If you'd love to support me in my journey, you can by me a [coffee here ☕️](https://ko-fi.com/savio). Here is his projects sorted by popularity:
 
 - ### [CodeHouse](https://codehouse.vercel.app/)
    Code House is an open source storehouse for helpful cheatsheets for developers to learn any tech. CodeHouse contains 300+ curated cheatsheets from 230+ sources. 
@@ -53,9 +47,9 @@ If you'd love to support Savio in his journey, you can by him a [coffee here ☕
 
 ## My writings:
 
-Savio writes occasionally. He has a monthly newsletter called **Savio's Monthly Tech Life** which you can [subsribe here](https://www.getrevue.co/profile/saviomartin7). Join the tribe of 3,000+ developers and get notified when he build something cool, launch something useful and pass huge milestones :)
+I write occasionally. I do have a monthly newsletter called **Savio's Monthly Tech Life** which you can [subsribe here](https://www.getrevue.co/profile/saviomartin7). Join the tribe of 3,000+ developers and get notified when I build something cool, launch something useful and pass huge milestones :)
 
-He also has a blog. Savio give primary focus into building rather than writing, but he still aims to write 1 blog / month. Here is his recent blogs:
+I also have a blog. I give primary focus into building rather than writing, but I still aims to write 1 blog / month. Here is my recent blogs:
 <!-- BLOG-POST-LIST:START -->
 - [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
 - [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
@@ -66,8 +60,7 @@ He also has a blog. Savio give primary focus into building rather than writing, 
 
 <br>
 
-Here is how much he spends weekly on building useful products:
-
+Here is how much time I spends weekly on building useful products:
 <!--START_SECTION:waka-->
 
 ```text
@@ -76,18 +69,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## Work with me
-
-- ### Frontend Web Development
-   Savo builds stunning user interfaces that users enjoy with Next JS / React. He is also passionate, well thought and well planned.
-- ### Promotion
-  Savio builds a daily growing community of 35,000+ developers on his Twitter. Savio can help your company or startup grow by promoting it to his audience.
-- ### Collaboration
-  If you have a cool idea, Savio would love to work together in it. 
-
 <br>
 
-If you'd love to talk, just send him a [DM on Twitter](https://twitter.com/saviomartin7)
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/saviomartin7)
 
 <br>
 
