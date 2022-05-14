@@ -64,12 +64,12 @@ Here is how much time I spends weekly on building useful products:
 <!--START_SECTION:waka-->
 
 ```text
-CSS            4 hrs 50 mins   ███████████████████▒░░░░░   77.37 %
-Markdown       36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-CoffeeScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-JSON           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-XML            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+CSS            6 hrs 2 mins    ████████████████████▒░░░░   80.86 %
+Markdown       36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+CoffeeScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+JSON           21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+XML            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
