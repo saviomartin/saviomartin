@@ -64,12 +64,12 @@ Here is how much time I spends weekly on building useful products:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 36 mins  ██████████████████▓░░░░░░   74.00 %
-CSS          4 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TypeScript   19 hrs 17 mins  ███████████████████▒░░░░░   76.71 %
+CSS          4 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Bash         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
