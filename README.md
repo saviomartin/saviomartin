@@ -64,7 +64,10 @@ Here is how much time I spends weekly on building useful products:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         14 mins         █████████████████░░░░░░░░   68.23 %
+JavaScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+CSS          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
