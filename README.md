@@ -54,7 +54,6 @@ I write occasionally. I do have a monthly newsletter called **Savio's Monthly Te
 I also have a blog. I give primary focus into building rather than writing, but I still aims to write 1 blog / month. Here is my recent blogs:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
 - [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
 - [Introducing Styler - The Next Generation CSS Builder ⚡️](https://blog.saviomartin.com/styler)
