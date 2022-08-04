@@ -2,13 +2,13 @@
 
 Frontend web developer with a passion for asthetic interfaces
 
----
+〰〰〰〰〰〰
 
 Recognized as [Maker of The Year 2021](https://www.producthunt.com/stories/announcing-the-golden-kitty-awards-2021-winners) by **Product Hunt**.
 
 My Experiments also got featured in YCombinator HN, Product Hunt, Hashnode, Harper DB, Fueler, TLDR Newsletter and Indie Hackers.
 
-[Twitter ↗](https://twitter.com/saviomartin7) • [Instagram ↗](https://www.instagram.com/saviomartin7/) • [Mail ↗](mailto:saviomartin2007@gmail.com)
+[Twitter](https://twitter.com/saviomartin7) • [Instagram](https://www.instagram.com/saviomartin7/) • [Mail](mailto:saviomartin2007@gmail.com)
 <br>
 
 #### Works
