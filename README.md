@@ -68,8 +68,9 @@ Here is how much time I spends weekly on building useful products:
 <!--START_SECTION:waka-->
 
 ```text
-Bash         0 secs          █████████████▓░░░░░░░░░░░   55.21 %
-TypeScript   0 secs          ███████████▒░░░░░░░░░░░░░   44.79 %
+CSS          0 secs          █████████████████████▓░░░   86.93 %
+Bash         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
