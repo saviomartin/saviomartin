@@ -31,13 +31,15 @@ I got recognized as **Maker of The Year 2021** by **Product Hunt**. My experimen
 
 Always curious about new ideas to create highly satisfying user interfaces, passionate on minimalism, and asthetic vibes. Here are the popular products I've created with React, Next.JS, TypeScript, and Tailwind.
 
-| Project           | Description                                                  | URL                                               |
-| ----------------- | ------------------------------------------------------------ | ------------------------------------------------- |
-| **Iframe**        | Create quality broswer mockups for product presentations.    | [Iframe](https://iframe.so/)                      |
-| **CodeHouse**     | Open source collection of developer cheatsheets.             | [CodeHouse](https://codehouse.vercel.app/)        |
-| **Slickr**        | Visual tool for creating beautiful blog cover images.        | [Slickr](https://slickr.vercel.app/)              |
-| **Lofi Club**     | 24/7 Lofi music to help you learn or study for productively. | [Lofi Club](https://loficlub.vercel.app/)         |
-| **Gradient King** | Create & Browse beautiful gradients for designers.           | [Gradient King](https://gradient-king.vercel.app) |
+| Project           | Description                                                  | URL                                                          |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Iframe**        | Create quality broswer mockups for product presentations.    | [iframe.so](https://iframe.so/)                              |
+| **CodeHouse**     | Open source collection of developer cheatsheets.             | [codehouse.vercel.app](https://codehouse.vercel.app/)        |
+| **Slickr**        | Visual tool for creating beautiful blog cover images.        | [slickr.vercel.app](https://slickr.vercel.app/)              |
+| **Lofi Club**     | 24/7 Lofi music to help you learn or study for productively. | [loficlub.vercel.app](https://loficlub.vercel.app/)          |
+| **Gradient King** | Create & Browse beautiful gradients for designers.           | [gradient-king.vercel.app](https://gradient-king.vercel.app) |
+
+<br>
 
 ---
 
