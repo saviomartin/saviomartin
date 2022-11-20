@@ -5,8 +5,7 @@ Frontend web developer with a passion for aesthetic interfaces.
 I got recognized as **Maker of The Year 2021** by **Product Hunt**. My experiments also featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
 
 [Twitter](http://twitter.com/saviomartin7)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:saviomartin2007@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](http://instagram.com/saviomartin7)
-
-<br>
+‎
 
 ## What people say about me:
 
@@ -24,8 +23,7 @@ I got recognized as **Maker of The Year 2021** by **Product Hunt**. My experimen
   — [**Khushboo Verma**](https://twitter.com/khushboooverma), Software Engineer @Microsoft, 50k+ followers on Twitter
 - **_"you're killing it man at the age of 14!"_** <br>
   — [**Csaba Kissi**](https://twitter.com/csaba_kissi), 60K+ Followers on Twitter
-
-<br>
+  ‎
 
 ## Works
 
@@ -39,7 +37,7 @@ Always curious about new ideas to create highly satisfying user interfaces, pass
 | **Lofi Club**     | 24/7 Lofi music to help you learn or study for productively. | [loficlub.vercel.app](https://loficlub.vercel.app/)          |
 | **Gradient King** | Create & Browse beautiful gradients for designers.           | [gradient-king.vercel.app](https://gradient-king.vercel.app) |
 
-<br>
+‎
 
 ---
 
