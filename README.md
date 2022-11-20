@@ -1,10 +1,10 @@
 # Hey, I'm Savio 👋
 
-Savio Martin is a 15 year old who spends time building useful products. He is a designer, front-end web developer, and content creator.
+Frontend web developer with a passion for aesthetic interfaces.
 
-I got recognized as **Maker of The Year 2021** by **Product Hunt**. His works also got featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
+I got recognized as **Maker of The Year 2021** by **Product Hunt**. My experiments also featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
 
-[![Twitter](https://user-images.githubusercontent.com/61895712/150363205-8c2af146-cdea-4441-9802-2703e1b9d411.png)](https://twitter.com/saviomartin7)
+[Twitter](http://twitter.com/saviomartin7)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:saviomartin2007@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](http://instagram.com/saviomartin7)
 
 ## What people say about me:
 
@@ -27,17 +27,14 @@ I got recognized as **Maker of The Year 2021** by **Product Hunt**. His works al
 
 Always curious about new ideas to create highly satisfying user interfaces, passionate on minimalism, and asthetic vibes. Here are the popular products I've created with React, Next.JS, TypeScript, and Tailwind.
 
-- ### [Iframe](https://iframe.so/)
-  Create quality broswer mockups for product presentations.
-- ### [CodeHouse](https://codehouse.vercel.app/)
-  Open source collection of developer cheatsheets
-- ### [Slickr](https://slickr.vercel.app/)
-  Visual tool for creating beautiful blog cover images 2021
-- ### [Lofi Club](https://loficlub.vercel.app/) (sold)
-  24/7 Lofi music to help you learn or study for productively.
-- ### [Gradient King](https://gradient-king.vercel.app)
-  Gradients for UI designers with an inbuilt tool to create news ones from images.
-  
+| Project           | Description                                                  | URL                                               |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------- |
+| **Iframe**        | Create quality broswer mockups for product presentations.    | [Iframe](https://iframe.so/)                      |
+| **CodeHouse**     | Open source collection of developer cheatsheets.             | [CodeHouse](https://codehouse.vercel.app/)        |
+| **Slickr**        | Visual tool for creating beautiful blog cover images.        | [Slickr](https://slickr.vercel.app/)              |
+| **Lofi Club**     | 24/7 Lofi music to help you learn or study for productively. | [Lofi Club](https://loficlub.vercel.app/)         |
+| **Gradient King** | Create & Browse beautiful gradients for designers.           | [Gradient King](https://gradient-king.vercel.app) |
+
 ---
 
 If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/saviomartin7)
