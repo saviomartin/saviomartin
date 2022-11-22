@@ -41,8 +41,7 @@ Always curious about new ideas to create highly satisfying user interfaces, pass
 
 <br>
 
----
-
+#
 If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/saviomartin7)
 
 If you'd love to support me in my journey, you can by me a [coffee here ☕️](https://ko-fi.com/savio).
