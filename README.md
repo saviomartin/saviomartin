@@ -1,6 +1,6 @@
 # Hey, I'm Savio 👋
 
-Frontend web developer with a passion for aesthetic interfaces.
+Full-stack web developer with a passion for beautiful and functional interfaces.
 
 I got recognized as **Maker of The Year 2021** by **Product Hunt**. My experiments also featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
 
