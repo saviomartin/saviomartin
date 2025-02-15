@@ -2,7 +2,7 @@
 
 Full-stack web developer with a passion for beautiful and functional interfaces.
 
-I got recognized as **Maker of The Year 2021** by **Product Hunt**. My experiments also featured on **YCombinator HN**, **Product Hunt**, **Hashnode**, **Harper DB**, **Fueler**, **TLDR Newsletter** and **Indie Hackers**.
+I'm recognized as **Maker of The Year 2021** by **Product Hunt**.
 
 [Twitter](http://twitter.com/saviomartin7)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:saviomartin2007@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](http://instagram.com/saviomartin7)
 
