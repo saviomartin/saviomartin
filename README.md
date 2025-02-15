@@ -4,7 +4,7 @@ Full-stack web developer with a passion for beautiful and functional interfaces.
 
 I'm recognized as **Maker of The Year 2021** by **Product Hunt**.
 
-[Twitter](http://twitter.com/saviomartin7)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:saviomartin2007@gmail.com)&nbsp;&nbsp;•&nbsp;&nbsp;[Instagram](http://instagram.com/saviomartin7)
+[Twitter](http://twitter.com/saviomartin7)&nbsp;&nbsp;•&nbsp;&nbsp;[Mail](mailto:saviomartin2007@gmail.com)&nbsp;&nbsp;
 
 <br>
 
